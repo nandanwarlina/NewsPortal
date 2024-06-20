@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>News API Project</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav>
+      <div class="navbar obj-width">
+        <a class="logo" href="#">News</a>
+        <div class="nav-links">
+          <a href="#" class="category-btn" data-category="">All</a>
+          <a href="#" class="category-btn" data-category="technology"
+            >Technology</a
+          >
+          <a href="#" class="category-btn" data-category="business">Business</a>
+          <a href="#" class="category-btn" data-category="sports">Sports</a>
+          <a href="#" class="category-btn" data-category="science">Science</a>
+          <a href="#" class="category-btn" data-category="health">Health</a>
+        </div>
+        <div class="search-container">
+          <input
+            type="text"
+            placeholder="Search news here.."
+            id="search-input"
+          />
+          <button id="search-button">Search</button>
+        </div>
+        <select id="sort-select">
+          <option value="publishedAt">Date</option>
+          <option value="relevancy">Relevance</option>
+          <option value="popularity">Popularity</option>
+        </select>
+      </div>
+    </nav>
+    <main class="obj-width" id="blog-container"></main>
+    <div id="pagination">
+      <button id="prev-button" disabled>Previous</button>
+      <button id="next-button">Next</button>
+    </div>
+    <div id="loading-spinner" class="spinner"></div>
+
+    <script src="script_api.js" type="module"></script>
+  </body>
+</html>
