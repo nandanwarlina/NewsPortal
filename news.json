@@ -1,212 +1,1291 @@
 {
   "articles": [
     {
-      "source": {
-        "id": "marca",
-        "name": "Marca"
-      },
-      "author": "marca.com",
-      "title": "EV Stimulus Payment: How you can get a 2500 tax refund for buying an Electric Vehicle?",
-      "description": "Even though federal stimulus checks have ended, several states continue to provide direct payments to help residents cope with economic challenges and inflation. \nThese payments no",
-      "url": "https://www.marca.com/en/lifestyle/us-news/personal-finance/2024/06/19/6672d1ea22601df8728b45b0.html",
-      "urlToImage": "https://phantom-marca.unidadeditorial.es/8d555f13489211ed6bcd2aa273af476c/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/19/17188007082564.png",
-      "publishedAt": "2024-06-19T12:43:21Z",
-      "content": "Even though federal stimulus checks have ended, several states continue to provide direct payments to help residents cope with economic challenges and inflation. \r\nThese payments not only offer finan… [+1887 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Beatrice Nolan",
-      "title": "Elon Musk really doesn't want to live forever",
-      "description": "In an interview at the Cannes Lions International Festival of Creativity, Elon Musk said he hadn't invested in the longevity industry.",
-      "url": "https://www.businessinsider.com/elon-musk-doesnt-want-to-live-forever-no-longevity-investments-2024-6",
-      "urlToImage": "https://i.insider.com/6669d06d764df16112590e75?width=1200&format=jpeg",
-      "publishedAt": "2024-06-19T12:35:06Z",
-      "content": "Elon Musk.Steve Granitz/FilmMagic via Getty Images\r\n<ul><li>Elon Musk isn't interested in living forever.</li><li>In a recent interview, Musk said if people live too long they inhibit new ideas.</li>… [+1913 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "Leon Poultney",
-      "title": "Are built-in car sat-navs finally dead? Ferrari's latest infotainment move suggests so",
-      "description": "Ferrari says it will no longer provide its own sat-nav systems in upcoming models, as more manufacturers lean on Apple and Google for infotainment duties.",
-      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/are-built-in-car-sat-navs-finally-dead-ferraris-latest-infotainment-move-suggests-so",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yzQFNsxp6SNpUf6vTNDqFg-1200-80.jpg",
-      "publishedAt": "2024-06-19T11:46:10Z",
-      "content": "Ferrari has announced that it is removing built-in satellite navigation in a selection of its upcoming models, including the recently announced 12Cilindri and Purosangue SUV.\r\nArguing that a Ferrari … [+3051 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Eva Roytburg",
-      "title": "The number of Black Fortune 500 CEOs is still abysmally low: could a DEI practice be to blame?",
-      "description": "Despite recent increases, only 8 out of the 500 largest U.S. companies (1.6%) have Black CEOs, far below the 13% Black population in the labor force.",
-      "url": "https://fortune.com/2024/06/19/the-number-of-black-fortune-500-ceos-is-still-abysmally-low-a-shocking-corporate-dei-practice-might-be-to-blame-stanford-professor-says/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1460179345_b8078b-e1718747259806.jpg?resize=1200,600",
-      "publishedAt": "2024-06-19T10:00:00Z",
-      "content": "Among the 500 companies represented in Fortunes flagship ranking, Black executives only lead eight of them. Thats 1.6%, a figure that is as microscopic as it is nearly record-breaking: Last year ther… [+4532 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Jaures Yip",
-      "title": "11 Tesla accessories to upgrade your ride, from a roadside safety kit to a $225 mattress",
-      "description": "Teslas are already known for their unique engineering, but the company sells plenty of upgrades too.",
-      "url": "https://www.businessinsider.com/tesla-car-accessories-cybertruck-model-y-3-x",
-      "urlToImage": "https://i.insider.com/6669ed48ed9a404d829d0ef2?width=1200&format=jpeg",
-      "publishedAt": "2024-06-19T09:17:01Z",
-      "content": "Tesla offers a variety of accessories for all models, from air mattresses to CyberTents.Tesla\r\n<ul><li>Tesla offers a range of accessories to enhance its five vehicle models, including the Cybertruck… [+6033 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Angus Mackintosh",
-      "title": "Self-driving cars a 'game changer' for disabled Aussies, but they've got a kangaroo problem",
-      "description": "Darren waits \"hours and hours and hours\" for taxis in Queensland, and hopes self-driving cars might be the answer. But an unpredictable marsupial is standing in the way.",
-      "url": "https://www.abc.net.au/news/2024-06-19/self-driving-cars-kangaroo-research/103993614",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6b2624e754e44c799a171c0f7dc63e71?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=744&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-06-19T07:05:35Z",
-      "content": "Darren owns a Tesla, but what attracted him to the popular car brand wasn't what lures most of its fans.\r\nDarren has quadriplegia, which he says means he is paralysed from the shoulders down.\r\nIt mea… [+7689 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": "Afp And Staff Writers",
-      "title": "US electric vehicle start-up Fisker files for bankruptcy",
-      "description": "US electric carmaker Fisker said it filed for bankruptcy on Monday, citing inflation woes and production problems.",
-      "url": "https://www.news.com.au/technology/motoring/on-the-road/us-electric-vehicle-startup-fisker-files-for-bankruptcy/news-story/86952dbc5385fe7613091b8a5a141788",
-      "urlToImage": "https://content.api.news/v3/images/bin/a3af9e97f4851580d9d81009d8ec9cac",
-      "publishedAt": "2024-06-19T06:07:33Z",
-      "content": "US electric carmaker Fisker said it filed for bankruptcy on Monday, citing inflation woes and production problems.\r\nFisker is in “advanced discussions with financial stakeholders” over the sale of it… [+3818 chars]"
-    },
-    {
-      "source": {
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "author": "Brian Wang",
-      "title": "Multiple Zero Intervention Drives from Early Tesla FSD 12.4.1 Drivers",
-      "description": "Whole Mars had his third zero intervention drive in a row with Tesla FSD 12.4.1. The destination is given with verbal instruction. FSD 12.4.2 should get fairly widely distributed this weekend. Tesla FSD drivers will not need to touch the steering wheel and co…",
-      "url": "https://www.nextbigfuture.com/2024/06/multiple-zero-intervention-drives-from-early-tesla-fsd-12-4-1-drivers.html",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/06/Screen-Shot-2024-06-18-at-10.28.02-PM.jpg",
-      "publishedAt": "2024-06-19T05:29:22Z",
-      "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Christina Dugan Ramirez",
-      "title": "Woody Harrelson injured in motorcycle accident, asked Ted Danson for help: ‘You played a doctor, right?’",
-      "description": "Woody Harrelson detailed how longtime friend Ted Danson tended to him after he sustained a wrist injury from a motorcycle accident.",
-      "url": "https://www.foxnews.com/entertainment/woody-harrelson-injured-motorcycle-accident-asked-ted-danson-help-you-played-doctor-right",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/woody-harrelson-ted-danson.jpg",
-      "publishedAt": "2024-06-18T20:22:07Z",
-      "content": "When Woody Harrelson\r\n is in a jam, fellow \"Cheers\" costar Ted Danson is always there to help. \r\nHarrelson revealed he got into a motorcycle accident while on his way to record the \"Conan OBrien Need… [+2192 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Michael Wayland, CNBC",
-      "title": "Electric car company Fisker files for bankruptcy protection",
-      "description": "Fisker on Monday became the latest all-electric vehicle startup to file for Chapter 11 bankruptcy protection amid lackluster consumer demand, significant cash burn and operational and product issues.",
-      "url": "https://www.nbcnews.com/business/autos/electric-car-company-fisker-files-bankruptcy-protection-rcna157814",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240618-fisker-ocean-car-vl-407p-6b4f13.jpg",
-      "publishedAt": "2024-06-18T20:20:20Z",
-      "content": "Fisker on Monday became the latest all-electric vehicle startup to file for Chapter 11 bankruptcy protection amid lackluster consumer demand, significant cash burn and operational and product issues.… [+6184 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Michael Wayland, CNBC",
-      "title": "Top BofA auto analyst says Detroit automakers need to exit China as soon as possible",
-      "description": "The traditional Detroit automakers — General Motors, Ford Motor and Stellantis — should exit the Chinese market “as soon as they possibly can,” Bank of America’s top automotive analyst said Tuesday.",
-      "url": "https://www.nbcnews.com/business/autos/top-bofa-auto-analyst-says-detroit-automakers-need-exit-china-soon-pos-rcna157811",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240618-General-Motors-building-ch-1604-957fa6.jpg",
-      "publishedAt": "2024-06-18T20:20:05Z",
-      "content": "The traditional Detroit automakers  General Motors, Ford Motor and Stellantis  should exit the Chinese market as soon as they possibly can, Bank of Americas top automotive analyst said Tuesday.\r\nThe … [+1909 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Hannah Ziegler",
-      "title": "Stellantis recalls 1.2 million vehicles over rearview camera issue",
-      "description": "Radio software could inadvertently disable rearview cameras, the company said. It has created a software update to fix the problem.",
-      "url": "https://www.washingtonpost.com/business/2024/06/18/stellantis-recall-rearview-cameras/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6GWRWJBRN2RDEOKNH5JCQDIMFQ.JPG&w=1440",
-      "publishedAt": "2024-06-18T19:57:52Z",
-      "content": "Stellantis is recalling nearly 1.2 million vehicles in the United States and Canada because of a software glitch that can disable rearview cameras.\r\nThe recall covers certain vehicles from model year… [+1949 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Fisker tried to out Tesla Tesla, and now it’s bankrupt",
-      "description": "Fisker finally declared bankruptcy, proving that trying to follow Tesla’s playbook isn’t exactly foolproof, especially when your name isn’t Elon Musk.",
-      "url": "https://www.theverge.com/2024/6/18/24181228/fisker-bankrupt-chapter-11-ev-ocean-tesla-playbook-musk",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4uqeGRdzYzr7PlO15vIcE6LyUac=/0x0:4545x3030/1200x628/filters:focal(2273x1515:2274x1516)/cdn.vox-cdn.com/uploads/chorus_asset/file/25496704/1575080703.jpg",
-      "publishedAt": "2024-06-18T19:38:50Z",
-      "content": "Fisker tried to out Tesla Tesla, and now its bankrupt\r\nFisker tried to out Tesla Tesla, and now its bankrupt\r\n / Henrik Fisker tried to tap into Elon Musks showmanship and bombast but ended up fumbli… [+5725 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Philip Bump",
-      "title": "The data on race and murder that Elon Musk gave a '!' deserved a '?'",
-      "description": "The owner of X (formerly Twitter) expressed amazement at a false claim about violence committed by Black people.",
-      "url": "https://www.washingtonpost.com/politics/2024/06/18/data-race-murder-that-elon-musk-gave-deserved/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T5QFPF7YXJDJBSYDMM2OAOUBQY_size-normalized.jpg&w=1440",
-      "publishedAt": "2024-06-18T19:26:07Z",
-      "content": "Elon Musk has an idiosyncratic way of engaging with X, the once-known-as-Twitter social media platform that he now owns. He does his share of corporate posting, offering up videos of Tesla cars and S… [+5271 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Eva Roytburg, Michelle Chapman, The Associated Press",
-      "title": "YouTube star Marques Brownlee says people shouldn't blame him for Fisker going bankrupt—'they were doomed long before any of my videos'",
-      "description": "\"I know everyone's commenting that I killed them, but truth is they were doomed long before any of my videos,\" Brownlee said.",
-      "url": "https://fortune.com/2024/06/18/marques-brownlee-fisker-bankruptcy-doomed-before-my-mkbhd-videos/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1259137714-e1718735048131.jpg?resize=1200,600",
-      "publishedAt": "2024-06-18T18:26:47Z",
-      "content": "Fisker Group Inc. said in a filing with the U.S. Bankruptcy Court in Delaware that its estimated assets are between $500 million and $1 billion. It estimated liabilities are between $100 million and … [+3985 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Aila Slisco",
-      "title": "Applesauce Recall Investigation Sparks New Warning - Newsweek",
-      "description": "A recall was issued after samples of the applesauce revealed \"extremely high concentrations\" of lead.",
-      "url": "https://www.newsweek.com/applesauce-recall-investigation-sparks-new-warning-1914541",
-      "urlToImage": "https://d.newsweek.com/en/full/2412632/apple-sauce-recall-warning-investigation-dollar-tree.jpg",
-      "publishedAt": "2024-06-18T22:40:44Z",
-      "content": "The U.S. Food and Drug Administration (FDA) is warning Dollar Tree after accusing the discount retailer of failing to \"adequately remove\" applesauce products that had been recalled for contamination … [+4244 chars]"
-    }
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Jess Weatherbed",
+"title": "Apple’s lock on iPhone browser engines gets a December deadline",
+"description": "We might finally see the first iPhone browsers built on top of third-party engines now that Japanese regulators have taken up the issue.  Apple’s malicious compliance in the EU has so far prevented Chrome, and its Blink engine, for example, from coming to iOS…",
+"url": "https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers",
+"urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"publishedAt": "2025-08-08T08:15:40Z",
+"content": "<ul><li></li><li></li><li></li></ul>\r\nJapan wont let Apple impose unreasonable technical restrictions\r\nJapan wont let Apple impose unreasonable technical restrictions\r\nby\r\nJess WeatherbedClose\r\nJess … [+2569 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NPR"
+},
+"author": "Regina G. Barber",
+"title": "Why do some people's memories stay sharp as they age?",
+"description": "The human brain tends to slow down as we age — even healthy brains shrink. That can make learning and memory harder as people age. But some people’s brains shrink more slowly than their peers. This lucky group is called “SuperAgers.” They’re people aged 80 or…",
+"url": "https://www.npr.org/2025/08/08/nx-s1-5494697/aging-memory-alzheimers-dementia",
+"urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd1%2Fa1%2F6e1924b04a138c8e69ea999e2b35%2Fe9a866ff-9dee-4dac-a6f8-a43fe6f21edd.jpg",
+"publishedAt": "2025-08-08T07:00:00Z",
+"content": "The human brain tends to slow down as we age even healthy brains shrink. That can make learning and memory harder as people age. But some people's brains shrink more slowly than their peers. This luc… [+828 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NPR"
+},
+"author": "Malaka Gharib",
+"title": "13 podcast episodes to make back-to-school season easier on kids and parents",
+"description": "The new school year can be exciting, but also stressful. Kids may be feeling anxious. Parents may be juggling new responsibilities. Experts share tips on how to manage this season of change.",
+"url": "https://www.npr.org/2025/08/08/nx-s1-5494561/podcast-episodes-back-to-school-less-stressful-kids-parents",
+"urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2248+0+124/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F83%2F37361ca5477d970ca975da1297a1%2Flk-back-to-school-tips-gettyimages-2184201336.jpg",
+"publishedAt": "2025-08-08T09:00:00Z",
+"content": "Back-to-school season can be a hectic time for parents. You're settling your kids into a new routine, preparing them mentally for the new school year and adding homework help and lunch prep to your o… [+4004 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Charissa Cheong,Shubhangi Goel",
+"title": "The Big Tech Visa: 7 current and former Big Tech employees share their H-1B visa stories",
+"description": "Some techies who came to the US and found work on a H-1B visa say it's allowed them to pursue dream careers. For others, doubt has settled in.",
+"url": "https://www.businessinsider.com/h-1b-visa-big-tech-immigration-green-card-2025-8",
+"urlToImage": "https://i.insider.com/689270aa85e81483682f58d0?width=1200&format=jpeg",
+"publishedAt": "2025-08-08T04:05:01Z",
+"content": "The H-1B visa is a gateway to the American dream for skilled immigrants, but the path for some is paved with anxiety, guilt, and uncertainty.\r\nBig Tech companies like Amazon, Meta, Google and Apple a… [+16906 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hipertextual"
+},
+"author": "Hipertextual (Redacción)",
+"title": "Este es el mejor momento para comprar “AirTag” baratas: cuatro por veinte euros y compatible con Buscar del iPhone",
+"description": "Cuando Apple lanzó el AirTag, muchas personas lo vieron como la solución perfecta para no volver a perder nada. Usando la aplicación “Buscar” de cualquier dispositivo de Apple, puedes encontrar la posición exacta en el mapa. Es perfecto tanto para llaves como…",
+"url": "http://hipertextual.com/ofertas-descuentos/airtag-barata-oferta/",
+"urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2021/05/AirTag-12-scaled.jpg",
+"publishedAt": "2025-08-08T09:35:56Z",
+"content": "Cuando Apple lanzó el AirTag, muchas personas lo vieron como la solución perfecta para no volver a perder nada. Usando la aplicación Buscar de cualquier dispositivo de Apple, puedes encontrar la posi… [+2539 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hipertextual"
+},
+"author": "Rubén Chicharro",
+"title": "El rediseño de HyperOS 3.0 se filtra al completo: traerá varias funciones copiadas del iPhone",
+"description": "Cada vez son más los detalles que conocemos de HyperOS 3.0, la que será la nueva versión del sistema operativo de Xiaomi. La compañía planea lanzar esta actualización este mismo mes de agosto, y aunque todavía no han confirmado ninguna novedad al respecto, un…",
+"url": "http://hipertextual.com/mobile/hyperos-3-0-se-filtra-al-completo-nuevo-diseno-isla-dinamica-y-mas/",
+"urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2025/08/hyperos-3.jpg",
+"publishedAt": "2025-08-08T08:45:24Z",
+"content": "Cada vez son más los detalles que conocemos de HyperOS 3.0, la que será la nueva versión del sistema operativo de Xiaomi. La compañía planea lanzar esta actualización este mismo mes de agosto, y aunq… [+2492 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Autoblog"
+},
+"author": "Amos Kwon",
+"title": "Hyundai Reveals Unmissable Lease Deal on 2025 Kona SUV",
+"description": "The second coming of the Kona was a dramatic one. Its modern interior and exterior take the Kona into not just bigger, but better subcompact crossover...",
+"url": "https://www.autoblog.com/carbuying/hyundai-announces-killer-lease-deal-on-the-2025-kona",
+"urlToImage": "https://media.zenfs.com/en/autoblog_arena_articles_145/585bdb2da8073db00761978ae6fbb160",
+"publishedAt": "2025-08-08T00:15:20Z",
+"content": "Hyundai Reveals Unmissable Lease Deal on 2025 Kona SUV originally appeared on Autoblog.\r\nThis ultramodern redesign punches above its weight\r\nThe second coming of the Kona was a dramatic one. Its mode… [+4928 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Antonio Sabán",
+"title": "EEUU amenazó a Apple para que fabricase el iPhone en casa. Apple ya está pasando por el aro",
+"description": "A Estados Unidos le está saliendo bien el pulso arancelario.  Aunque el dólar sigue sufriendo, los resultados directos de sus exigencias a otros países siguen teniendo retornos positivos. Trump ha logrado que sus socios comerciales paguen más aranceles que an…",
+"url": "https://www.xataka.com/moviles/eeuu-amenazo-a-apple-fabricase-iphone-casa-apple-esta-pasando-aro",
+"urlToImage": "https://i.blogs.es/c5562a/cook/840_560.jpeg",
+"publishedAt": "2025-08-08T08:00:09Z",
+"content": "A Estados Unidos le está saliendo bien el pulso arancelario.  Aunque el dólar sigue sufriendo, los resultados directos de sus exigencias a otros países siguen teniendo retornos positivos. Trump ha lo… [+4174 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Alberto García",
+"title": "El móvil plegable de Samsung a precio de saldo, ofertón en la consola portátil de Logitech y más, Cazando Gangas",
+"description": "Volvemos con un nuevo Cazando Gangas en una semana en la que hemos visto ofertas en un gran surtido de dispositivos. Amazon, PcComponentes y MediaMarkt coronan algunos de los mejores chollos en móviles, consolas portátiles, barras de sonido y mucho más. En es…",
+"url": "https://www.xataka.com/seleccion/movil-plegable-samsung-a-precio-saldo-oferton-consola-portatil-logitech-cazando-gangas",
+"urlToImage": "https://i.blogs.es/170d53/cazando-gangas/840_560.jpeg",
+"publishedAt": "2025-08-08T08:30:11Z",
+"content": "Volvemos con un nuevo Cazando Gangas en una semana en la que hemos visto ofertas en un gran surtido de dispositivos. Amazon, PcComponentes y MediaMarkt coronan algunos de los mejores chollos en móvil… [+4082 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "John Tones",
+"title": "Todas las películas que triunfan en Netflix son mediocres: ahora sí que el streaming es la verdadera tele",
+"description": "Las películas más vistas de Netflix son todas de una mediocridad aplastante. Una frase quizás demasiado radical pero que se apoya en significativos datos reales. Y sobre todo, que tiene un trasfondo que da que pensar cuando la plataforma es la indicutible núm…",
+"url": "https://www.xataka.com/streaming/todas-peliculas-que-triunfan-netflix-mediocres-streaming-verdadera-tele",
+"urlToImage": "https://i.blogs.es/e48d0a/copia-de-lo-que-te-cuenta-netflix/840_560.jpeg",
+"publishedAt": "2025-08-08T10:16:39Z",
+"content": "Las películas más vistas de Netflix son todas de una mediocridad aplastante. Una frase quizás demasiado radical pero que se apoya en significativos datos reales. Y sobre todo, que tiene un trasfondo … [+4157 chars]"
+},
+{
+"source": {
+"id": "ign",
+"name": "IGN"
+},
+"author": "coreydemoss",
+"title": "Reverse: 1999 Brings Assassin’s Creed Legacy Characters and Story Content in Its First Globally Synced Collaboration",
+"description": null,
+"url": "https://www.ign.com/articles/reverse-1999-brings-assassins-creed-legacy-characters-and-story-content-in-its-first-globally-synced-collaboration",
+"urlToImage": "https://assets-prd.ignimgs.com/2025/08/07/cover-image-1754588635853.png?width=1280&format=jpg&auto=webp&quality=80",
+"publishedAt": "2025-08-08T02:00:00Z",
+"content": "Free-to-play time-traveling strategic RPG Reverse: 1999 just launched its biggest collaboration yet, its first to ever launch simultaneously worldwide, and it teamed up with another time-jumping fran… [+6346 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Tomislav Bezmalinović",
+"title": "Interface für die Welt: Forscher zeigen innovatives AR-Interaktionsmodell",
+"description": "Forscher haben mit \"Reality Proxy\" ein AR-Bedienkonzept entwickelt, das die Ferninteraktion mit realen Objekten erleichtert.",
+"url": "https://www.heise.de/news/Interface-fuer-die-Welt-Forscher-zeigen-innovatives-AR-Interaktionsmodell-10514396.html",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/1/1/3/4/2/Reality-Proxy-d255e6fdff59dffb.jpg",
+"publishedAt": "2025-08-08T10:20:00Z",
+"content": "AR-Brillen könnten eines Tages eine Bedienoberfläche für die Welt liefern: So ließe sich etwa vom Sofa aus das Licht ausknipsen, ein Buch im Regal markieren und als digitaler Text anzeigen oder der S… [+2065 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Zac Hall",
+"title": "Here’s when ChatGPT integration within Apple Intelligence will use GPT-5",
+"description": "Earlier today, OpenAI announced GPT-5, its latest model to power ChatGPT. The new frontier model is a significant leap forward in a lot of areas. But when will ChatGPT integration within Apple Intelligence adopt it? That’s actually happening rather soon…\n\n\n\n …",
+"url": "https://9to5mac.com/2025/08/07/apple-intelligence-gpt-5-chatgpt-integration/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/chatgpt-siri-ios182-3-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2025-08-08T03:32:59Z",
+"content": "Earlier today, OpenAI announced GPT-5, its latest model to power ChatGPT. The new frontier model is a significant leap forward in a lot of areas. But when will ChatGPT integration within Apple Intell… [+2148 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.jp"
+},
+"author": "はらいさん",
+"title": "Apple Watch Ultra 3、ディスプレイがちょっとだけ大きくなるかも",
+"description": "Image:Apple視認性が上がるといいなぁ。最大36時間持つバッテリーや、スキューバーダイビングのダイブコンピューターとしても使えるAppleWatchUltra。この秋約2年ぶりの新型モデルとして、AppleWatchUltra3が登場すると予想されています。待望の新型AppleWatchUltra、もうこの秋にも発表なのかも⁉︎バッテリーがさらに長持ちになったら、心揺れ動いちゃうかも。パワ",
+"url": "https://www.gizmodo.jp/2025/08/apple-watch-ultra-3-display-is-slightly-larger.html",
+"urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/08/08/ultra2_VW_34FR_JP.jpg?w=1280&h=630&f=jpg",
+"publishedAt": "2025-08-08T01:00:00Z",
+"content": "36Apple Watch Ultra2Apple Watch Ultra 3\r\nApple Watch Ultra23\r\nMacRumorsiOS 26Apple Watch\r\nApple Watch422×514Apple Watch Ultra 2410×502Apple Watch Ultra 3MacRumors\r\nApple Watch Ultra\r\nApple Watch Ultr… [+48 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.jp"
+},
+"author": "小暮ひさのり",
+"title": "iOS 26のCarPlayで、車もガジェットになる",
+"description": "Photo:小暮ひさのりiPhoneを更新すると、車内体験も新しく。ドライブでのメインナビとして、車内のエンタメとして。車内のディスプレイオーディオでCarPlayを採用しているドライバーのみなさんに朗報。iOS26では、CarPlayも新しくなります。正式リリースは今秋ですが、Apple（アップル）から特別な許可を得て、現在パブリックベータとして公開されている開発中バージョンを試すことができたの",
+"url": "https://www.gizmodo.jp/2025/08/ios-26-carplay.html",
+"urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/08/07/2025_08_07Cark00.jpg?w=1280&h=630&f=jpg",
+"publishedAt": "2025-08-08T02:00:00Z",
+"content": "Copyright © Mediagene Inc. All Rights Reserved."
+},
+{
+"source": {
+"id": null,
+"name": "Journal du geek"
+},
+"author": "Amandine Jonniaux",
+"title": "Sketchers lance ses baskets géolocalisables par Airtag, mais Apple n’est pas d’accord",
+"description": "Quand la basket connectée relance le débat sur la vie privée des enfants.",
+"url": "https://www.journaldugeek.com/2025/08/08/sketchers-lance-ses-premieres-baskets-geolocalisables-mais-apple-nest-pas-daccord/",
+"urlToImage": "https://www.journaldugeek.com/app/uploads/2025/08/find-my-sketchers-2-1600x900.jpg",
+"publishedAt": "2025-08-08T08:01:46Z",
+"content": "Le moins que l’on puisse dire, c’est que la nouvelle gamme de baskets connectées Find My Skechers, dotée dun compartiment conçu pour accueillir un AirTag dApple, suscite la controverse. Présentée com… [+2737 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Álvaro García M.",
+"title": "El gran problema de Apple con la IA no son sus pretensiones. Es su fuga de cerebros a la competencia",
+"description": "Es extraño, pero quizás la crisis de Apple en inteligencia artificial no tenga su origen en una falta de talento, sino más bien en no haber sabido medir el impacto y organizar bien los equipos para llegar a tiempo, tal como ya hemos ido viendo por los diferen…",
+"url": "https://www.applesfera.com/apple-1/gran-problema-apple-ia-no-sus-pretensiones-su-fuga-cerebros-a-competencia",
+"urlToImage": "https://i.blogs.es/15c6fe/apple-intelligence/840_560.jpeg",
+"publishedAt": "2025-08-08T10:00:09Z",
+"content": "Es extraño, pero quizás la crisis de Apple en inteligencia artificial no tenga su origen en una falta de talento, sino más bien en no haber sabido medir el impacto y organizar bien los equipos para l… [+3898 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Guille Lomener",
+"title": "El salto del iPhone a los 200 megapíxeles está hoy algo más cerca. La razón tiene un nombre inesperado: Donald Trump",
+"description": "Apple nunca ha sido de las primeras en sumarse a la llamada \"guerra de los megapíxeles\". Mientras otros fabricantes corrían hacia sensores cada vez más grandes, Cupertino mantuvo su ritmo: 8 megapíxeles durante años, después 12 megapíxeles, y con el iPhone 14…",
+"url": "https://www.applesfera.com/iphone/salto-iphone-a-200-megapixeles-esta-hoy-algo-cerca-razon-tiene-nombre-inesperado-donald-trump",
+"urlToImage": "https://i.blogs.es/b50e42/trump/840_560.jpeg",
+"publishedAt": "2025-08-08T08:27:10Z",
+"content": "Apple nunca ha sido de las primeras en sumarse a la llamada \"guerra de los megapíxeles\". Mientras otros fabricantes corrían hacia sensores cada vez más grandes, Cupertino mantuvo su ritmo: 8 megapíxe… [+6887 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Alberto García",
+"title": "Cae de precio este iPad que es casi tan grande como un MacBook: chip M2, 256 GB y 5G",
+"description": "Amazon suele tener ofertas muy dispersas en dispositivos que cuentan con varias configuraciones. El último gran descuento en dispositivos de Apple lo encontramos en el iPad Air M2 de 13 pulgadas, cuyo precio ha caído únicamente en el color púrpura hasta los 8…",
+"url": "https://www.applesfera.com/seleccion/cae-precio-este-ipad-que-casi-grande-como-macbook-chip-m2-256-gb-5g",
+"urlToImage": "https://i.blogs.es/1da1c6/ipad-air-m2/840_560.jpeg",
+"publishedAt": "2025-08-08T10:30:08Z",
+"content": "Amazon suele tener ofertas muy dispersas en dispositivos que cuentan con varias configuraciones. El último gran descuento en dispositivos de Apple lo encontramos en el iPad Air M2 de 13 pulgadas, cuy… [+1521 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Álvaro García M.",
+"title": "Lo mejor del nuevo GPT-5 es que se integrará gratis en nuestro iPhone sin tener que instalar nada. Solo falta un mes para tenerlo",
+"description": "Casi por sorpresa tras un anuncio horas antes, esta semana hemos conocido el nuevo GPT-5 por parte de OpenAI y que ya está disponible en la app oficial de ChatGPT, así como en su acceso vía web. Sin embargo, hay una buena noticia adicional para usuarios de Ap…",
+"url": "https://www.applesfera.com/aplicaciones-ios/mejor-nuevo-gpt-5-que-se-integrara-gratis-nuestro-iphone-tener-que-instalar-nada-solo-falta-mes-para-tenerlo",
+"urlToImage": "https://i.blogs.es/e05747/iphone-con-gpt-5/840_560.jpeg",
+"publishedAt": "2025-08-08T06:39:38Z",
+"content": "Casi por sorpresa tras un anuncio horas antes, esta semana hemos conocido el nuevo GPT-5 por parte de OpenAI y que ya está disponible en la app oficial de ChatGPT, así como en su acceso vía web. Sin … [+3952 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Álvaro García M.",
+"title": "¿Cansado de las llamadas spam en tu iPhone? Si dices estas tres frases las detectarás al instante",
+"description": "Apple quiere acabar con las llamadas spam con la llegada de iOS 26 y su nuevo filtrado de llamadas. Ya lo hemos probado y es muy eficiente, aunque hasta que llegue esta versión en septiembre, toca seguir combatiéndolas como podemos. Y no serán pocas las que r…",
+"url": "https://www.applesfera.com/tutoriales/cansado-llamadas-spam-tu-iphone-dices-estas-tres-frases-detectaras-al-instante",
+"urlToImage": "https://i.blogs.es/a252dc/llamada-spam/840_560.jpeg",
+"publishedAt": "2025-08-08T07:30:09Z",
+"content": "Apple quiere acabar con las llamadas spam con la llegada de iOS 26 y su nuevo filtrado de llamadas. Ya lo hemos probado y es muy eficiente, aunque hasta que llegue esta versión en septiembre, toca se… [+5140 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Presse-citron"
+},
+"author": "Setra",
+"title": "Après la sortie de GPT-5, on a une bonne nouvelle pour les utilisateurs de Siri",
+"description": "Les utilisateurs de Siri sur les produits compatibles avec Apple Intelligence devraient bientôt profiter de l’intégration de GPT-5 avec l’assistant et le système d’exploitation. GPT-5 est le nouveau modèle d’IA d’OpenAI. Plus intelligent et plus fiable, celui…",
+"url": "https://www.presse-citron.net/apres-la-sortie-de-gpt-5-on-a-une-bonne-nouvelle-pour-les-utilisateurs-de-siri/",
+"urlToImage": "https://www.presse-citron.net/app/uploads/2025/06/iPhone-iOS-reglage-1600x900.jpg",
+"publishedAt": "2025-08-08T10:42:35Z",
+"content": "Hier soir, OpenAI a lancé son nouveau modèle dintelligence artificielle GPT-5. Cette nouvelle IA est disponible gratuitement sur ChatGPT et rend le chatbot plus intelligent, plus performant sur des d… [+2208 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Golem.de"
+},
+"author": "Przemyslaw Szymanski",
+"title": "Abgänge: Apple verliert KI-Spitzenkräfte an die Konkurrenz",
+"description": "Der iPhone-Konzern Apple verliert ein Dutzend KI-Experten an die Konkurrenz - darunter führende Köpfe aus dem Team für große Sprachmodelle. (Apple, KI)",
+"url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fabgaenge-apple-verliert-ki-spitzenkraefte-an-die-konkurrenz-2508-198957.html&referer=https%3A%2F%2Ft.co%2F54b0013ed1",
+"urlToImage": null,
+"publishedAt": "2025-08-08T07:05:02Z",
+"content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Android Authority"
+},
+"author": "Hadlee Simons",
+"title": "Survey reveals more of you need to shop around for carriers, you’re missing out",
+"description": "When was the last time you switched mobile carriers? A recent Android Authority poll has revealed some interesting results.",
+"url": "https://www.androidauthority.com/switch-carriers-survey-results-3585243/",
+"urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/05/Stock-photo-of-major-US-carriers-Verizon-Wireless-ATT-and-T-Mobile-6.jpg",
+"publishedAt": "2025-08-08T10:00:24Z",
+"content": "Colleague Joe Maring recently chronicled his switch from T-Mobile to Visible after ten years as a T-Mobile customer. He also revealed a few things he learned after a month with his new carrier, and i… [+3419 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Android Authority"
+},
+"author": "Hadlee Simons",
+"title": "Fast charging quietly changed my life — and it might change yours too",
+"description": "Fast charging can often be an overlooked smartphone feature, but it's so much more important than you may realize.",
+"url": "https://www.androidauthority.com/fast-charging-changed-my-life-might-change-yours-too-3581605/",
+"urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/08/OnePlus-10T-with-150W-charging-speeds.jpg",
+"publishedAt": "2025-08-08T10:00:49Z",
+"content": "Im old enough to remember when most smartphones topped out at 5W or even 10W charging speeds. In fact, my first proper Android phone was 2012s Sony Xperia V, and it offered a mere 5W power level.\r\nTh… [+9450 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Espinof.com"
+},
+"author": "Randy Meeks",
+"title": "Esta serie es la número 1 en más de 60 países. Jason Momoa es el creador de un 'Juego de Tronos' sangriento basado en una historia real",
+"description": "Jason Momoa, además de ser uno de los actores más reconocibles del audiovisual actual, no quiere quedarse solo en la actuación. Por eso, además de productor, también ha dirigido y guionizado su propia película (la olvidada 'Camino a Paloma'), además de ayudar…",
+"url": "https://www.espinof.com/actores-y-actrices/esta-serie-numero-1-60-paises-jason-momoa-creador-juego-tronos-sangriento-basado-historia-real",
+"urlToImage": "https://i.blogs.es/74355f/chief/840_560.jpeg",
+"publishedAt": "2025-08-08T07:00:09Z",
+"content": "Jason Momoa, además de ser uno de los actores más reconocibles del audiovisual actual, no quiere quedarse solo en la actuación. Por eso, además de productor, también ha dirigido y guionizado su propi… [+1814 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Muyinteresante.com"
+},
+"author": "mgcirac",
+"title": "Citroën lanza su SUV más avanzado: 3 versiones electrificadas, confort premium y diseño que rompe con todo",
+"description": "El nuevo Citroën C5 Aircross ofrece versiones híbridas, enchufables y eléctricas con hasta 680 km de autonomía, interior tipo lounge y tecnología como ChatGPT integrado. El SUV francés que reinventa el confort y la eficiencia.",
+"url": "https://www.muyinteresante.com/uncategorized/citroen-c5-aircross-mas-libertad-confort-y-tecnologia-electrificada.html",
+"urlToImage": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2025/08/Untitled-design15-3-og.jpg",
+"publishedAt": "2025-08-08T05:43:00Z",
+"content": "Citroën renueva por completo su apuesta en el segmento C con la llegada del nuevo C5 Aircross, un SUV que no solo actualiza su diseño y plataforma, sino que también abraza de forma decidida la electr… [+5936 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Habr.com"
+},
+"author": "Xcom-shop (Группа компаний X-Com)",
+"title": "Процессоры с самой мощной встроенной графикой в 2025 году",
+"description": "Найти более компромиссный компромисс, чем встроенная графика, задачка еще та. С одной стороны, какой-никакой GPU вроде бы есть. А с другой, поиграть на такой сборке чаще всего можно только с большими оговорками. И рассчитывать на кардинальные изменения ситуац…",
+"url": "https://habr.com/ru/companies/x-com/articles/935268/#post-content-body",
+"urlToImage": "https://habrastorage.org/getpro/habr/upload_files/37d/b6a/9fa/37db6a9fa93b34d8829cb6b28e79ad0f.jpeg",
+"publishedAt": "2025-08-08T08:51:34Z",
+"content": ", , . , - GPU . , . . , , . , , . AMD APU 40 , Apple 80, Intel . 2025 , .\r\n : , . Apple Silicon AMD Strix, . \r\nApple M3 Ultra \r\n. Apple M3 Ultra , . , . , .\r\n M3 Ultra:\r\n<ul><li> 80 Apple Silicon 3\r\n… [+2676 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Alex Valdes （CNET News） 翻訳校正： 編集部",
+"title": "サムスンがiPhone用イメージセンサー供給か、ソニー独占終了の可能性",
+"description": "韓国のサムスンがテキサス州でアップルの「iPhone18」向けに3層積層型イメージセンサーの製造を開始すると、Financial Timesが報じている。",
+"url": "https://japan.cnet.com/article/35236497/",
+"urlToImage": "https://japan.cnet.com/storage/2025/08/08/33b492c0294da61468e6a8484406deb7/apple-iphone-16-pro-max-camera-lens-photography-4749_1280x960.jpg",
+"publishedAt": "2025-08-08T00:10:00Z",
+"content": "AppleiPhone183Financial TimesDonald TrumpiPhone\r\n38KApple86\r\nApple600088American Manufacturing Program\r\nApple\r\nS&amp;P GlobalAndrew ChangiPhoneiPhone\r\nChangAppleiPhone\r\nFinancial Times7AppleiPhone18A… [+141 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Les Numériques"
+},
+"author": "Rick",
+"title": "Actualité : Bon plan – Les écouteurs sans fil Samsung Galaxy Buds3 Pro \"5 étoiles\" à 141,84 €",
+"description": "Les écouteurs sans fil Samsung Galaxy Buds3 Pro passent sous les 150 € chez Topbiz.fr.",
+"url": "https://www.lesnumeriques.com/ecouteurs-sans-fil/bon-plan-les-ecouteurs-sans-fil-samsung-galaxy-buds3-pro-5-etoiles-a-141-84-n240806.html",
+"urlToImage": "https://cdn.lesnumeriques.com/optim/test/22/226229/821f1b24-samsung-galaxy-buds3-pro-revirement-a-tiges-pour-rester-dans-l-excellence__1200_678__274-366-2833-1709_wtmk.jpg",
+"publishedAt": "2025-08-08T10:01:02Z",
+"content": "Révolution en cours chez Samsung, qui abandonne le format haricot pour un design à tiges façon Apple AirPods Pro 2, le tout avec quelques spécificités. Cette forme nouvelle des Galaxy Buds3 Pro ne fa… [+1771 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Xatakamovil.com"
+},
+"author": "Noelia Hontoria",
+"title": "El iPhone más avanzado ahora es mucho más barato, el Pixel 9 en liquidación y más ofertas, Cazando Gangas",
+"description": "En plena ola de calor, nada como unas ofertas bien fresquitas para alegrarse estos días en los que poner un pie en la calle es casi como atravesar el infierno y quedarse en casa implica exprimir el aire acondicionado o el ventilador. Una semana más, en nuestr…",
+"url": "https://www.xatakamovil.com/guias-de-compra/iphone-avanzado-ahora-mucho-barato-pixel-9-liquidacion-ofertas-cazando-gangas",
+"urlToImage": "https://i.blogs.es/f1b308/cazando-gangas-iphone-16-pro-max-portada-roja/840_560.jpeg",
+"publishedAt": "2025-08-08T10:00:09Z",
+"content": "En plena ola de calor, nada como unas ofertas bien fresquitas para alegrarse estos días en los que poner un pie en la calle es casi como atravesar el infierno y quedarse en casa implica exprimir el a… [+4486 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Techmeme.com"
+},
+"author": null,
+"title": "Apple says Apple Intelligence will use OpenAI's GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September (Zac Hall/9to5Mac)",
+"description": "Zac Hall / 9to5Mac:\nApple says Apple Intelligence will use OpenAI's GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September  —  Earlier today, OpenAI announced GPT-5, its latest model to power ChatGPT.  The new …",
+"url": "https://www.techmeme.com/250808/p8",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/chatgpt-siri-ios182-3-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2025-08-08T10:20:02Z",
+"content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 6:30 AM ET, August 8, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo vie… [+68 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "Benjamin Mamerow",
+"title": "Apple Pay: Schwere Vorwürfe gegen Apple",
+"description": "Eine neue Klage des Unternehmens Fintiv, Inc. stellt aktuell die Frage: Gehört die Technologie, die Apple Pay antreibt, überhaupt Apple? Die Vorwürfe, die man in einer Pressemitteilung erhebt, sind massiv und umfassen nicht nur den angeblichen Diebstahl von G…",
+"url": "https://stadt-bremerhaven.de/schwere-vorwuerfe-apple-soll-fuer-apple-pay-geschaeftsgeheimnisse-entwendet-haben/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/apple-pay_.jpg",
+"publishedAt": "2025-08-08T04:30:07Z",
+"content": "Eine neue Klage des Unternehmens Fintiv, Inc. stellt aktuell die Frage: Gehört die Technologie, die Apple Pay antreibt, überhaupt Apple? Die Vorwürfe, die man in einer Pressemitteilung erhebt, sind m… [+1513 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "Felix Frank",
+"title": "Samsung SmartThings: Neuer Hub der vierten Generation kündigt sich an",
+"description": "SmartThings ist Samsungs Smart-Home-Plattform. Diese erhält quartalsweise neue Funktionen und Verbesserungen. Hardwareseitig gibt es mit dem SmartThings-Hub auch eine Zentrale für verschiedene Funkprotokolle. Auch diverse Anbieter, wie Ikea, Nuki oder auch So…",
+"url": "https://stadt-bremerhaven.de/samsung-smartthings-neuer-hub-der-vierten-generation-kuendigt-sich-an/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/10/SmartThings_logo-01.jpg",
+"publishedAt": "2025-08-08T06:00:30Z",
+"content": "SmartThings ist Samsungs Smart-Home-Plattform. Diese erhält quartalsweise neue Funktionen und Verbesserungen. Hardwareseitig gibt es mit dem SmartThings-Hub auch eine Zentrale für verschiedene Funkpr… [+3019 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Benjamin Barois",
+"title": "Aujourd’hui deux fois moins chère que la manette officielle de Nintendo, la 8BitDo Pro 2 est compatible Switch, PC, Android, macOS et Steam Deck",
+"description": "Une manette Bluetooth au look rétro, compatible avec de nombreuses plateformes dont la Switch 2, c'est la 8BitDo Pro 2 à retrouver pour seulement 32,99 euros sur Amazon.",
+"url": "https://www.frandroid.com/bons-plans/2655011_aujourdhui-deux-fois-moins-chere-que-la-manette-officielle-de-nintendo-la-8bitdo-pro-2-est-compatible-switch-pc-android-macos-et-steam-deck",
+"urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/8bitdo-pro-2.jpg?resize=1600,900&key=f22fb973&watermark",
+"publishedAt": "2025-08-08T09:33:33Z",
+"content": "Une manette Bluetooth au look rétro, compatible avec de nombreuses plateformes dont la Switch 2, c’est la 8BitDo Pro 2 à retrouver pour seulement 32,99 euros sur Amazon.\r\n8BitDo Pro 2 // Source : 8Bi… [+3039 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Slickdeals.net"
+},
+"author": "joshsarvesh",
+"title": "Costco Members: Apple AirPods Pro w/ USB-C MagSafe Case (2nd Gen) + 2-Yr AppleCare+ $180 + Free Shipping",
+"description": "Features: \nAppleCare+ for Headphones Included \n \nClinical Grade Hearing Aid Feature, and Active Hearing Protection \n \nFeaturing Pro-Level Active Noise Cancellation, Adaptive Audio, Transparency Mode...",
+"url": "https://slickdeals.net/f/18505324-costco-members-apple-airpods-pro-w-usb-c-magsafe-case-2nd-gen-2-yr-applecare-180-free-shipping",
+"urlToImage": "https://slickdeals.net/attachment/1/8/6/3/2/3/2/450x450/18064033.thumb",
+"publishedAt": "2025-08-08T03:41:59Z",
+"content": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GSMArena.com"
+},
+"author": "Vlad",
+"title": "Japan is making Apple allow non-Webkit browsers on iOS",
+"description": "Japan is joining the EU in forcing Apple to allow non-Webkit browsers on iOS. Following the EU's Digital Markets Act, which came into effect last year, Japan now has the Smartphone Act.\n\nThis will come into effect by December, and will ban blocking or hinderi…",
+"url": "https://www.gsmarena.com/japan_is_making_apple_allow_nonwebkit_browsers_on_ios-news-68954.php",
+"urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/08/japan-forces-apple-to-allow-webkit-alternatives/-952x498w6/gsmarena_000.jpg",
+"publishedAt": "2025-08-08T04:45:02Z",
+"content": "Japan is joining the EU in forcing Apple to allow non-Webkit browsers on iOS. Following the EU's Digital Markets Act, which came into effect last year, Japan now has the Smartphone Act.\r\nThis will co… [+942 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GSMArena.com"
+},
+"author": "Vlad",
+"title": "iPhone 17 Pro now rumored to start at 256GB of storage",
+"description": "Last month, a rumor told us to expect a price hike across the board for the upcoming iPhone 17 family, except for the entry-level 'vanilla' iPhone 17.\n\nToday, a leaker in China purports to bring a new piece of the puzzle. According to him, the iPhone 17 Pro's…",
+"url": "https://www.gsmarena.com/iphone_17_pro_now_rumored_to_start_at_256gb_of_storage-news-68955.php",
+"urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/08/iphone-17-pro-256gb/-952x498w6/gsmarena_000.jpg",
+"publishedAt": "2025-08-08T06:50:03Z",
+"content": "Last month, a rumor told us to expect a price hike across the board for the upcoming iPhone 17 family, except for the entry-level 'vanilla' iPhone 17.\r\nToday, a leaker in China purports to bring a ne… [+715 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Stratechery.com"
+},
+"author": "Ben Thompson",
+"title": "2025.32: What Nokia Can Teach Us About the AI Era",
+"description": "The best Stratechery content from the week of August 4, 2025 including what Nokia can teach us about the AI era, what the NFL wants from ESPN, and how Visa conquered debit cards.",
+"url": "https://stratechery.com/2025/what-nokia-can-teach-us-about-the-ai-era/",
+"urlToImage": "https://stratechery.com/wp-content/uploads/2025/08/paradigms-2.png",
+"publishedAt": "2025-08-08T10:00:00Z",
+"content": "(Stratechery)\r\nWelcome back to This Week in Stratechery!\r\nAs a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for … [+2909 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Intercept"
+},
+"author": "The Intercept Briefing",
+"title": "“A Purely Manmade Famine”: How Israel Is Starving Gaza",
+"description": "The International Rescue Committee’s Bob Kitchen unpacks how Israel’s war and aid restrictions, not food shortage, are driving Gaza’s hunger crisis.\nThe post “A Purely Manmade Famine”: How Israel Is Starving Gaza appeared first on The Intercept.",
+"url": "https://theintercept.com/2025/08/08/intercept-briefing-podcast-gaza-aid-food/",
+"urlToImage": "https://theintercept.com/wp-content/uploads/2025/08/GazaFamine_banner.jpg?fit=2000%2C1000&w=1200&h=800",
+"publishedAt": "2025-08-08T10:00:00Z",
+"content": "As the Israeli government weighs, once again, expanding its genocidal military campaign in Gaza, the enclave is sliding into a full-scale famine.\r\nWe’re seeing a purely manmade famine, says Bob Kitch… [+28616 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Creative Bloq"
+},
+"author": "Daniel John",
+"title": "Apple's 'rare' gift for Donald Trump is kind of embarrassing",
+"description": "Even the box was made in the USA!",
+"url": "https://www.creativebloq.com/design/product-design/apples-rare-gift-for-donald-trump-is-kind-of-embarrassing",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/4wEF796aZ4uvvTosc9tYHL.jpg",
+"publishedAt": "2025-08-08T05:00:00Z",
+"content": "Apple has been facing calls to come up with something new and exciting for a while now. With smartphone innovation stagnating and the company's AI efforts flailing, people have been wondering what th… [+2161 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Andro4all.com"
+},
+"author": "JuanMi Guirado",
+"title": "Caída brutal (de 199 a 99 euros) para este reloj Pro con 12 días de batería, GPS y Alexa integrada",
+"description": "Casi 4 años desde la presentación del Amazfit GTR 3 Pro, el fabricante no ha lanzado ninguna nueva versión de este reloj inteligente con apellido Pro, por algo será. Lo que funciona no hay que tocarlo ni renovarlo, y este smartwatch es una prueba de que el tr…",
+"url": "https://andro4all.com/ofertas/caida-brutal-de-199-a-99-euros-para-este-reloj-pro-con-12-dias-de-bateria-gps-y-alexa-integrada",
+"urlToImage": "https://andro4all.com/hero/2023/03/amazfit-gtr-3-pro-corona.jpg?width=1200",
+"publishedAt": "2025-08-08T10:30:00Z",
+"content": "Cuerpo metálico ligero y delgado con todos los sensores que te puedas imaginar y por menos de 100 euros\r\nCasi 4 años desde la presentación del Amazfit GTR 3 Pro, el fabricante no ha lanzado ninguna n… [+4160 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Idownloadblog.com"
+},
+"author": "Anthony Bouchard",
+"title": "Save big on games and accessories for your Nintendo Switch 2",
+"description": "The iDownloadBlog team has found amazing deals on games and accessories for your Nintendo Switch 2 game console.",
+"url": "https://www.idownloadblog.com/2025/08/07/nintendo-switch-2-deals-part-10/",
+"urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2025/06/Nintendo-Switch-2-Games-and-Accessories-Deals-Draft-2.jpg",
+"publishedAt": "2025-08-08T01:22:38Z",
+"content": "It feels like it was only a week ago that we shared some of the best Nintendo Switch 2 game and accessory deals with our readers, and thats because it was! We come at you every week with some of the … [+4916 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nextpit.de"
+},
+"author": "Jade Bryan",
+"title": "Apple Watch Ultra 3: Erstes Update seit 2 Jahren",
+"description": "Erste Details auf die Apple Watch Ultra 3 sind durchgesickert. Und es gibt Hinweise darauf, dass vieles deutlich verbessert wurde.",
+"url": "https://www.nextpit.de/news/apple-watch-ultra-3-erstes-update-seit-2-jahren",
+"urlToImage": "https://fs.npstatic.com/userfiles/7687254/image/Apple_Watch_Ultra_2/nextpit_Apple_Watch_Ultra_2_Review_Test-w1400h788.jpg",
+"publishedAt": "2025-08-08T07:00:00Z",
+"content": "Während Apple die Watch Ultra 2 (Testbericht) im Herbst 2023 vorstellte, erhielt sie im darauffolgenden Jahr keine Hardware-Aktualisierung. Jetzt, zwei Jahre nach dem letzten großen Update, sieht es … [+2630 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Techbang.com"
+},
+"author": "WL.",
+"title": "Apple 地圖台灣開放自行車導航，同時支援 Apple Watch 與語音回饋",
+"description": "Apple 地圖台灣開放自行車導航！單車族迎來導航新福音，支援 Apple Watch 與語音回饋Apple 正式為台灣使用者推出 Apple 地圖的「自行車導航」功能，對於熱愛單車生活的用戶而言無疑是一大福音。從即日起，iPhone 和 Apple Watch 使用者皆可透過 Apple 地圖查詢專為單車設計的導航路線，包括專用自行車道、單車友善道路，並支援繁體中文與英文介面。\n在 iOS 17 推出後，Apple 地圖就變得更佳實用，具備更精確的導航、顯眼的地標圖示、語音指引更自然，導航功能也不遜於 Goog…",
+"url": "https://www.techbang.com/posts/124776-apple-maps-taiwan-cycling-navigation",
+"urlToImage": "https://cdn1.techbang.com/system/excerpt_images/124776/original/7e76134381c759644050b73989168df7.jpg?1754546804",
+"publishedAt": "2025-08-08T02:30:00Z",
+"content": "Apple Apple iPhone Apple Watch Apple \r\n iOS 17 Apple Google Apple App\r\nApple Watch"
+},
+{
+"source": {
+"id": null,
+"name": "9to5google.com"
+},
+"author": "Abner Li",
+"title": "Pixel Watch 4 ‘with Gemini’ has dual-frequency GPS, Quick Charge Dock",
+"description": "The latest Pixel Watch 4 leak reveals how Google will be advertising the 2025 Wear OS 6 device and Gemini plays a big role.\n\n\n\n more…",
+"url": "http://9to5google.com/2025/08/07/pixel-watch-4-gemini-leak/",
+"urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-Watch-4-Gemini-leak.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2025-08-08T02:11:27Z",
+"content": "The latest Pixel Watch 4 leak reveals how Google will be advertising the 2025 Wear OS 6 device and Gemini plays a big role.\r\nEvan Blass this evening shared marketing material of the upcoming wearable… [+1351 chars]"
+},
+{
+"source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "David Nield",
+"title": "iOS 26 beta gives Apple Maps an AI upgrade – and it might be enough to tempt you from Google Maps",
+"description": "It seems Apple Maps is getting an AI-powered search upgrade with iOS 26, though it hasn't been officially announced.",
+"url": "https://www.techradar.com/phones/iphone/ios-26-beta-gives-apple-maps-an-ai-upgrade-and-it-might-be-enough-to-tempt-you-from-google-maps",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/mhKvS6dpjejz6pfpDfKSo9.jpg",
+"publishedAt": "2025-08-08T10:36:37Z",
+"content": "<ul><li>A new AI search feature has been spotted in Apple Maps</li><li>It's available in the latest iOS 26 developer beta</li><li>A full rollout of the software is expected in September</li></ul>\r\nAs… [+2259 chars]"
+},
+{
+  "source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "James Rogerson",
+"title": "'This looks hideous': the iPhone 17 Pro has been shown off in a new orange shade that you’re going to either love or hate",
+"description": "A video of an iPhone 17 Pro in an orange shade is delivering mixed reactions, but some people love it.",
+"url": "https://www.techradar.com/phones/iphone/this-looks-hideous-the-iphone-17-pro-has-been-shown-off-in-a-new-orange-shade-that-youre-going-to-either-love-or-hate",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/pzVatbSkVKjzJHR2kpWgZC.jpg",
+"publishedAt": "2025-08-08T08:47:11Z",
+"content": "<ul><li>A video of an iPhone 17 Pro dummy unit in orange has leaked</li><li>This shade is far more eye-catching than most Pro iPhone colors</li><li>Viewers are very mixed on whether it's a good color… [+1859 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/appleunboxed/",
+"title": "Apple iPhone 17 Release Date: Your Complete Countdown",
+"description": "In under five weeks, we’ll know all about the iPhone 17 series. This is your comprehensive schedule to what’s coming when, down to the minute.",
+"url": "https://www.forbes.com/sites/davidphelan/2025/08/08/apple-iphone-17-release-date-your-complete-countdown/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689494ebaebe874c28a3c5a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2025-08-08T09:02:32Z",
+"content": "Updated Aug. 8 with more details of exactly whats coming and when. \r\nIn September, Apple will launch the iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max and an all-new model thats especially slim and is … [+3012 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Rich Karlgaard, Senior Contributor, \n Rich Karlgaard, Senior Contributor\n https://www.forbes.com/sites/richkarlgaard-asia/",
+"title": "Decline By Degrees",
+"description": "Policymakers take heed: Smart regulation is the path to steady growth.",
+"url": "https://www.forbes.com/sites/richkarlgaard/2025/08/07/decline-by-degrees/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6891a9dc04940e9976be804f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2025-08-08T02:30:04Z",
+"content": "Policymakers take heed: Smart regulation is the path to steady growth.\r\nThrough the first half of 2025, European stocks boomed, with the MSCI Europe index up about 20%. That was a welcome respite for… [+4351 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Russell Flannery, Senior Contributor, \n Russell Flannery, Senior Contributor\n https://www.forbes.com/sites/russellflannery/",
+"title": "TSMC Shares Soar 4.9% To Record After Trump Announces Tariff Exemption",
+"description": "“TSMC, Samsung, SK Hynix and others that have invested in or plan to invest will pay no tariff, according to the president's comments. That's big.”",
+"url": "https://www.forbes.com/sites/forbeschina/2025/08/07/tsmc-shares-soar-49-to-record-after-trump-announces-tariff-exemption/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6894705b0ad5adbe0d70352c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2025-08-08T01:25:21Z",
+"content": "President Donald Trump, accompanied by Taiwan Semiconductor Manufacturing Company (TSMC) Chairman C.C. Wei, (C), speaks in the Roosevelt Room of the White House on March 3. Trump announced that TSMC … [+3186 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Rachel Burchfield, Contributor, \n Rachel Burchfield, Contributor\n https://www.forbes.com/sites/rachelburchfield/",
+"title": "Armani Beauty’s New Cheek Tint And Skin Tent Reflect The Brand’s Belief “That Makeup Shouldn’t Be Intimidating”",
+"description": "Armani Beauty's new Cheek Tint and Skin Tint are companion products that prove the brand's philosophy \"that makeup shouldn't be intimidating.\"",
+"url": "https://www.forbes.com/sites/rachelburchfield/2025/08/08/armani-beautys-new-cheek-tint-and-skin-tent-reflect-the-brands-belief-that-makeup-shouldnt-be-intimidating/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6895492ec3a4ff38aa169dae/0x0.jpg?format=jpg&crop=1920,1079,x0,y323,safe&height=900&width=1600&fit=bounds",
+"publishedAt": "2025-08-08T10:00:00Z",
+"content": "Armani Beauty's Skin Tint has 20 different shades.\r\nCourtesy of Armani Beauty\r\nOne of the hottest products of the summer? Blushand Armani Beauty\r\n has joined the conversation with its new Luminous Si… [+4263 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tom's Hardware UK"
+},
+"author": "Jon Martindale",
+"title": "Trump's 100% chip tariffs will likely hurt smaller manufacturers, as major companies court exemptions",
+"description": "The proposed 100% semiconductor tariff sounds devastating to chipmakers. But many major players remain unaffected, leaving smaller manufacturers vulnerable to the steep proposal.",
+"url": "https://www.tomshardware.com/tech-industry/semiconductors/trumps-100-percent-chip-tariffs-will-likely-hurt-smaller-manufacturers-as-major-companies-court-exemptions",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/7ijuaurHtA3bGJQZMpFZY8.jpg",
+"publishedAt": "2025-08-08T09:35:29Z",
+"content": "Following the announcement from President Donald Trump that he would seek 100% tariffs on foreign-made chips, there were serious concerns about how this would affect the wide range of industries that… [+4171 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yorokobu.es"
+},
+"author": "José María Piera",
+"title": "El regalito del viernes Summer Editition: Reconcíliate con la publicidad",
+"description": "Sí, ya sabemos, la publicidad es esa cosa molesta que interrumpe tu serie favorita porque tu presupuesto no da para pagar una suscripción prémium a esa plataforma de streaming. Pero de vez en cuando aparecen joyitas que no te cansas de ver. Creatividad en est…",
+"url": "https://yorokobu.es/regalito-summer-edition-publicidad/",
+"urlToImage": "https://yorokobu.b-cdn.net/wp-content/uploads/2025/08/regalito-summer-edition-publicidad.webp",
+"publishedAt": "2025-08-08T07:20:06Z",
+"content": "Sí, ya sabemos, la publicidad es esa cosa molesta que interrumpe tu serie favorita porque tu presupuesto no da para pagar una suscripción prémium a esa plataforma de streaming. Pero de vez en cuando … [+2552 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hdblog.it"
+},
+"author": "HDblog.it",
+"title": "MacBook Pro con schermo OLED: lancio nel 2026 con una caratteristica degli iPhone?",
+"description": "Continuano ad arrivare conferme su alcuni punti chiave.",
+"url": "https://www.hdblog.it/portatili/articoli/n627800/apple-macbook-pro-oled-notch-dynamic-island-quando/",
+"urlToImage": "https://hd2.tudocdn.net/1208684?w=1920",
+"publishedAt": "2025-08-08T06:55:00Z",
+"content": "Continuano ad arrivare conferme del fatto che Apple si sta preparando a lanciare il primo MacBook Pro con schermo OLED. Alle indicazioni di inizio luglio, infatti, si aggiunge oggi il report degli an… [+1792 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hdblog.it"
+},
+"author": "HDblog.it",
+"title": "Meta mostra i visori del futuro: tra realismo estremo e visione a 180°",
+"description": "Prototipi Meta con realismo record e campi visivi fino a 180°",
+"url": "https://www.hdblog.it/indossabili/articoli/n627833/meta-prototipi-vr/",
+"urlToImage": "https://hd2.tudocdn.net/1278846?w=1920",
+"publishedAt": "2025-08-08T08:45:00Z",
+"content": "A sorpresa, Meta ha svelato tre prototipi di visori che potrebbero anticipare il futuro della realtà mista, proprio perché puntano a offrire immagini più realistiche e campi visivi molto più ampi ris… [+2664 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Olhardigital.com.br"
+},
+"author": "Bruna Barone",
+"title": "Apple é acusada de roubar tecnologia usada no Apple Pay",
+"description": "Big tech teria usado informações confidenciais da empresa americana Fintiv entre 2011 e 2012 sem firmar acordo de licenciamento\nO post Apple é acusada de roubar tecnologia usada no Apple Pay apareceu primeiro em Olhar Digital.",
+"url": "https://olhardigital.com.br/2025/08/08/pro/apple-e-acusada-de-roubar-tecnologia-usada-no-apple-pay/",
+"urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/08/shutterstock_2493468515.jpg",
+"publishedAt": "2025-08-08T07:36:00Z",
+"content": "A Apple foi acusada em uma ação civil de cometer fraude eletrônica e apropriação indébita de segredos comerciais pelo suposto roubo da tecnologia de carteira móvel desenvolvida pela Fintiv, empresa e… [+2311 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Olhardigital.com.br"
+},
+"author": "Bruna Barone",
+"title": "“Crise de confiança”: Apple perde pesquisadores de IA",
+"description": "Big tech perdeu cerca de uma dúzia de profissionais seniores do setor — que foram trabalhar para Meta e OpenAI\nO post “Crise de confiança”: Apple perde pesquisadores de IA apareceu primeiro em Olhar Digital.",
+"url": "https://olhardigital.com.br/2025/08/08/pro/crise-de-confianca-apple-perde-pesquisadores-de-ia/",
+"urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/08/shutterstock_2635260207-1.jpg",
+"publishedAt": "2025-08-08T08:50:00Z",
+"content": "Um mês após a saída do principal executivo de inteligência artificial da Apple, Ruoming Pang, rumores surgiram sobre uma possível crise de confiança na empresa que pode ser maior do que a imprensa in… [+2397 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "Ажиотаж вокруг ИИ позволил TSMC поднять июльскую выручку на 26 %",
+"description": "Первый месяц третьего квартала для тайваньской компании TSMC оказался весьма успешным с точки зрения динамики выручки, поскольку её удалось увеличить на 26 % до $10,8 млрд в годовом сравнении. Этому традиционно способствовал высокий спрос на компоненты для си…",
+"url": "https://3dnews.ru/1127315/agiotag-vokrug-ii-pozvolil-tsmc-podnyat-iyulskuyu-viruchku-na-26-",
+"urlToImage": "https://3dnews.ru/assets/external/illustrations/2025/08/08/1127315/ASML_01.jpg",
+"publishedAt": "2025-08-08T07:24:00Z",
+"content": "TSMC , 26 % $10,8 . , TSMC .\r\n: ASML\r\n, , TSMC 38 %, . , . TSMC , .\r\n TSMC (Donald Trump) TSMC . TSMC, Sony Apple , . , , TSMC 25 % ."
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "Tesla расформировала команду специалистов по созданию суперкомпьютера Dojo",
+"description": "Агентство Bloomberg накануне сообщило, что компанию Tesla покинет руководитель группы специалистов, которые создавали суперкомпьютер Dojo, вместе с этим около 20 его теперь уже бывших коллег сформировали новую компанию DensityAI, в штате которой надеются найт…",
+"url": "https://3dnews.ru/1127301/tesla-rasformirovala-komandu-spetsialistov-po-sozdaniyu-superkompyutera-dojo",
+"urlToImage": "https://3dnews.ru/assets/external/illustrations/2025/08/08/1127301/dojo_01.jpg",
+"publishedAt": "2025-08-08T02:14:00Z",
+"content": "Bloomberg , Tesla , Dojo, 20 DensityAI, .\r\n : Nvidia\r\n, Tesla (Peter Bannon), Dojo. Tesla DensityAI, Tesla, . 2016 Tesla Apple. Tesla - .\r\n Tesla , Samsung Electronics. , Dojo Tesla . Dojo Tesla Opti… [+93 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Apple phát hành iOS 26 và iPadOS 26 Public Beta 2",
+"description": "Apple phát hành iOS 26 và iPadOS 26 Public Beta 2 \n\nApple vừa phát hành bản public beta 2 cho iOS 26 và iPadOS 26, 2 tuần sau bản đầu tiên. Ae đã đăng ký chương trình thử nghiệm của Apple có thể cập nhật trực tiếp bằng cách vào Cài đặt > Cài đặt…",
+"url": "https://tinhte.vn/thread/apple-phat-hanh-ios-26-va-ipados-26-public-beta-2.4045618/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2025/08/8804304_IMG-0446.jpg",
+"publishedAt": "2025-08-08T00:27:48Z",
+"content": "Apple phát hành iOS 26 và iPadOS 26 Public Beta 2 Apple va phát hành bn public beta 2 cho iOS 26 và iPadOS 26, 2 tun sau bn u tiên. Ae ã ng ký chng trình th nghim ca Apple có th cp nht trc tip bng cá… [+464 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Elair Maika), Elair Maika",
+"title": "Apple Intelligence sẽ sử dụng GPT-5 trong các bản cập nhật phần mềm tiếp theo",
+"description": "Việc tích hợp ChatGPT vào Apple Intelligence là tùy chọn được Apple cung cấp từ mối hợp tác trước đây của họ với OpenAI. Dĩ nhiên ngay sau khi OpenAI có model mới là ChatGPT-5 thì Siri trên lý thuyết cũng sẽ được cập nhật…",
+"url": "https://tinhte.vn/thread/apple-intelligence-se-su-dung-gpt-5-trong-cac-ban-cap-nhat-phan-mem-tiep-theo.4045774/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2025/08/8804725_chatgpt-siri-ios182-3-2.webp",
+"publishedAt": "2025-08-08T08:23:40Z",
+"content": "Vic tích hp ChatGPT vào Apple Intelligence là tùy chn c Apple cung cp t mi hp tác trc ây ca h vi OpenAI. D nhiên ngay sau khi OpenAI có model mi là ChatGPT-5 thì Siri trên lý thuyt cng s c cp nht, tn… [+1439 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "Ещё до появления претензий со стороны Трампа у нынешнего главы Intel возник конфликт с советом директоров",
+"description": "Богатая история инвестиций в капитал китайских компаний действующим генеральным директором Intel Лип-Бу Таном (Lip-Bu Tan) насторожила президента США Дональда Трампа (Donald Trump), который со свойственной ему прямотой и импульсивностью потребовал отставки Та…",
+"url": "https://3dnews.ru/1127308/eshchyo-do-poyavleniya-pretenziy-so-storoni-trampa-u-nineshnego-glavi-intel-voznik-konflikt-s-sovetom-direktorov",
+"urlToImage": "https://3dnews.ru/assets/external/illustrations/2025/08/08/1127308/lip_bu_tan.jpg",
+"publishedAt": "2025-08-08T05:43:00Z",
+"content": "Intel - (Lip-Bu Tan) (Donald Trump), . , Intel.\r\n: Intel\r\nThe Wall Street Journal. Intel. , Intel . Intel .\r\n Intel The Wall Street Journal , - . . , , (Frank Yeary) - .\r\n, Intel . Nvidia Amazon, Int… [+152 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sspai.com"
+},
+"author": "少数派编辑部",
+"title": "派早报：OpenAI 发布新一代旗舰模型 GPT-5、Google 推出异步 AI 编程工具 Jules 等",
+"description": "NVMe 2.3 版现已规范发布、微软开启 Gaming Copilot 游戏助手公测等。查看全文",
+"url": "https://sspai.com/post/101691",
+"urlToImage": "https://cdnfile.sspai.com/8/8/2025/article/c8757c8a-fa17-3711-6254-dcfb86b005dc.png",
+"publishedAt": "2025-08-08T00:40:50Z",
+"content": "OpenAI GPT-5\r\n8 8 OpenAI GPT-5\r\nOpenAI CEO Sam Altman GPT-5 ChatGPT \r\nGPT-5 SWE-BenchSWE-Lancer Aider Polyglot GPT-5 API mini nano \r\nGPT-5 5000 Altman GPT-5 AGI AGI \r\nOpenAI CynicRobotListenerNerd GP… [+979 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Skift"
+},
+"author": "Rashaad Jorden",
+"title": "Hyatt’s Hotel Sale, Expedia’s Good Quarter and Europe’s Scorching Heat",
+"description": "To end the week we look at Hyatt's renewed focus on asset-light strategies, Expedia's standout earnings, and Europe's long-term heat problems.",
+"url": "http://skift.com/2025/08/08/hyatts-hotel-sale-expedias-good-quarter-and-europes-scorching-heat/",
+"urlToImage": "https://skift.com/wp-content/uploads/2025/07/IMG_0734.jpeg?resize=1024,683",
+"publishedAt": "2025-08-08T09:01:04Z",
+"content": "Good morning from Skift. Its Friday, August 8. Here’s what you need to know about the business of travel today. \r\nHyatt is getting a boost from luxury travelers, while its executives are going forwar… [+1870 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Everything-everywhere.com"
+},
+"author": "Gary Arndt",
+"title": "The Great Leap Forward",
+"description": "Podcast Transcript In 1958, the People’s Republic of China instituted its second five-year plan since the revolution.  Its goal was to rapidly modernize China and boost agricultural and industrial output to levels comparable to the Western world.  China was g…",
+"url": "https://everything-everywhere.com/the-great-leap-forward/",
+"urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-Kr4tn62/0/NhZ5T9DqhTZCg3GQztwbnxK3XtBGFCxKGRp6zfdr9/L/1859epart-L.jpg",
+"publishedAt": "2025-08-08T05:17:36Z",
+"content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon | Discord | Facebook\r\nIn 1958, the Peoples Republic of China instituted its second five-year plan since t… [+12551 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "TheBlaze"
+},
+"author": "Justin Haskins",
+"title": "Democrats can’t handle a Trump recovery",
+"description": "The Department of Labor reported on August 1 that the U.S. unemployment rate ticked up slightly in July to 4.2%. Employers added just 73,000 jobs — well below the 110,000 economists had projected.Democrats pounced immediately.This isn’t economic chaos. It’s c…",
+"url": "https://www.theblaze.com/columns/opinion/democrats-cant-handle-a-trump-recovery",
+"urlToImage": "https://www.theblaze.com/media-library/democrats-cant-handle-a-trump-recovery.jpg?id=61438795&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
+"publishedAt": "2025-08-08T10:00:00Z",
+"content": "The Department of Labor reported on August 1 that the U.S. unemployment rate ticked up slightly in July to 4.2%. Employers added just 73,000 jobs well below the 110,000 economists had projected.\r\nDem… [+3880 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Futura"
+},
+"author": "Stanislas SAMUEL, Rédacteur web",
+"title": "Naviguer librement en zone censurée : pourquoi choisir l’offre 2 ans de Proton VPN",
+"description": "Certains contenus restent inaccessibles selon l’endroit où vous vous connectez. Ce n’est pas nouveau, mais ça complique vite les choses au quotidien. Dans ce contexte, avoir un VPN solide devient presque une évidence. Proton VPN, proposé à 3,99 €/mois, permet…",
+"url": "https://www.futura-sciences.com/conso/bons-plans/guides-vpn-naviguer-librement-zone-censuree-choisir-offre-2-ans-proton-vpn-7650/",
+"urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/e/0/f/e0f9f8b830_50235264_proton-vpn-promo.jpg",
+"publishedAt": "2025-08-08T09:00:00Z",
+"content": "Une offre pensée pour ceux qui voyagent ou qui veulent naviguer sans barrières\r\nAccéder à un site dactualité bloqué, utiliser les réseaux sociaux dans un pays où ils sont restreints, ou simplement re… [+3906 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Elespanol.com"
+},
+"author": "Fran G. Matas",
+"title": "inZOI, el rival de Los Sims, pone fecha a su primer DLC gratis: Tendrá nuevo mapa, cultivos y más",
+"description": "<!--cache-->El simulador de vida de Krafton, disponible en acceso anticipado para PC, recibirá este mes el contenido adicional 'Island Getaway', que ampliará las interacciones entre Zois.<!--aa--->El primer DLC de inZOI llega gratis el 20 de agosto, ha anunci…",
+"url": "https://vandal.elespanol.com/noticia/1350782535/inzoi-el-rival-de-los-sims-pone-fecha-a-su-primer-dlc-gratis-tendra-nuevo-mapa-cultivos-y-mas/",
+"urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2025/8/20258812111737_1.jpg",
+"publishedAt": "2025-08-08T10:12:00Z",
+"content": "El primer DLC de inZOI llega gratis el 20 de agosto, ha anunciado Krafton este viernes en un comunicado de prensa. El simulador de vida que trata de rivalizar con Los Sims se ampliará con Island Geta… [+2070 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Elespanol.com"
+},
+"author": "Daniel González",
+"title": "FREE FIRE MAX | Códigos de hoy viernes 8 de agosto de 2025 - Recompensas gratis",
+"description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire MAX que podrás canjear hoy, viernes 8 de agosto de 2025. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido…",
+"url": "https://vandal.elespanol.com/noticia/1350782525/free-fire-max-codigos-de-hoy-viernes-8-de-agosto-de-2025-recompensas-gratis/",
+"urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2025/8/202588821026_1.jpg",
+"publishedAt": "2025-08-08T06:02:00Z",
+"content": "El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido nuevos códigos diarios para hoy viernes 8 de agosto de 2025.\r\nLos jugadores pueden canjear estos códigos para recibir recompensa… [+2598 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CoinDesk"
+},
+"author": "Sam Reynolds, AI Boost",
+"title": "Asia Morning Briefing: BTC Mining Industry Not Worried About New Round of Trump Tariffs",
+"description": "Taiwan Semiconductor Company (TSMC) and Samsung, the largest BTC Mining ASIC manufacturers, have exemptions from the tariffs because of their U.S. operations.",
+"url": "https://www.coindesk.com/markets/2025/08/08/asia-morning-briefing-btc-mining-industry-not-worried-about-new-round-of-trump-tariffs",
+"urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5f6e2970f6b1a5a421b274255de56909a9064f62-1920x1080.jpg",
+"publishedAt": "2025-08-08T01:32:48Z",
+"content": "Welcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook… [+2891 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Taisy0.com"
+},
+"author": "taisy0",
+"title": "TokyoTool、NOMAD製品などのApple製品向けアクセサリが最大80％オフになるサマーキャンペーンのセールを開催中",
+"description": "Apple製品向けアクセサリなどを販売するTokyoToolが、対象商品を最大80％オフで販売するサマーキャンペーンのセールをスタートしました。 サマーキャンペーンでは、NOMAD・MP2L・altoを含む様々なブランドの多数の商品が対象と",
+"url": "https://taisy0.com/2025/08/08/214028.html",
+"urlToImage": "https://taisy0.com/wp-content/uploads/2025/08/tokyotoolsummersale2025.jpg",
+"publishedAt": "2025-08-08T08:09:25Z",
+"content": "AppleTokyoTool80\r\nNOMADMP2LaltoiPhoneiPadUSBAirPods\r\nApple WatchNOMAD Sport BandNOMAD Rugged BandApple WatchTPU MP2L Protective Case\r\n817\r\n – TokyoTool"
+},
+{
+"source": {
+"id": null,
+"name": "Taisy0.com"
+},
+"author": "taisy0",
+"title": "CIO、厚さ4.98㎜の世界最薄級モバイルバッテリー「SMARTCOBY ULTRA SLIM 3K」を発表｜8月15日よりクラファン開始",
+"description": "CIOが、厚さ4.98㎜の世界最薄級モバイルバッテリー「SMARTCOBY ULTRA SLIM 3K」を発表しました。 「SMARTCOBY ULTRA SLIM 3K」は、厚さわずか4.98mmの極薄設計に、Appleにも採用されている",
+"url": "https://taisy0.com/2025/08/08/214024.html",
+"urlToImage": "https://taisy0.com/wp-content/uploads/2025/08/SMARTCOBYULTRASLIM3K-1.jpg",
+"publishedAt": "2025-08-08T07:15:59Z",
+"content": "CIO4.98SMARTCOBY ULTRA SLIM 3K\r\nSMARTCOBY ULTRA SLIM 3K4.98mmAppleATL\r\niPhone\r\n3,000mAhApple2\r\nMagSafeUSB-C17.5W10WMagSafeiPhone\r\n2ATL8,980\r\nSMARTCOBY ULTRA SLIM 3KMakuake815"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Mauro Notarianni",
+"title": "Apple e Corning ampliano la collaborazione per vetri di iPhone e Apple Watch",
+"description": "Corning, l'azienda specializzata nella lavorazione del vetro nota per il “Gorilla Glass\", amplia la partnership con Apple.\n- su macitynet.it Apple e Corning ampliano la collaborazione per vetri di iPhone e Apple Watch",
+"url": "https://www.macitynet.it/apple-e-corning-ampliamento-partnership-vetri-iphone/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2025/08/corning2.jpg",
+"publishedAt": "2025-08-08T07:29:38Z",
+"content": "Apple e Corning hanno annunciato un importante ampliamento della loro partnership di lunga data per la creazione di vetro di precisione destinato agli iPhon e non solo..\r\nApple si è impegnata a spend… [+2004 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Mauro Notarianni",
+"title": "Il Giappone obbliga Apple ad accettare browser per iPhone senza WebKit",
+"description": "In UE la regola c’è ma non funziona: ora anche il Giappone impone ad Apple browser per iPhone e iPad senza WebKit e forse è la volta buona\n- su macitynet.it Il Giappone obbliga Apple ad accettare browser per iPhone senza WebKit",
+"url": "https://www.macitynet.it/il-giappone-obbliga-apple-ad-accettare-browser-per-iphone-senza-webkit/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2019/02/webkit1200.jpg",
+"publishedAt": "2025-08-08T08:29:28Z",
+"content": "La normativa sulla concorrenza (“Mobile Software Competition Act”) giapponese obbligherà entro fine anno Apple a permettere la distribuzione su App Store di browser per iPhone e iPad, senza che gli s… [+2721 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Mauro Notarianni",
+"title": "Con DaVinci Resolve 20.1 ancora più facile creare video per Vision Pro",
+"description": "Montaggio, colore, VFX, post audio e distribuzione in formato Apple Immersive Video grazie a DaVinci Resolve 20.1\n- su macitynet.it Con DaVinci Resolve 20.1 ancora più facile creare video per Vision Pro",
+"url": "https://www.macitynet.it/davinci-resolve-20-1/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2025/08/Davinciresolve201.jpg",
+"publishedAt": "2025-08-08T09:21:46Z",
+"content": "Blackmagic Design ha rilasciato DaVinci Resolve 20.1, un aggiornamento importante che supporta i flussi di lavoro Apple Immersive Video su DaVinci Resolve Studio per macOS. Le nuove funzionaòità cons… [+3624 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Mauro Notarianni",
+"title": "Cresce il mercato tablet, iPad sempre al primo posto",
+"description": "Tutti i dati del mercato dei tablet con le posizioni di tutti i marchi che cercano di scalzare il predominio di Apple.\n- su macitynet.it Cresce il mercato tablet, iPad sempre al primo posto",
+"url": "https://www.macitynet.it/mercato-tablet-secondo-trimestre-2025/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/11/ipadgenerico.jpg",
+"publishedAt": "2025-08-08T05:59:45Z",
+"content": "Anche se altri marchi crescono di più in percentuale, Apple continua a guidare la classifica mondiale dei tablet venduti: gli ultimi dati sulle spedizioni dei tablet a livello mondiale presenta un me… [+2431 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Yuri Di Prodo",
+"title": "BlurData per Mac nasconde i dati sensibili in immagini e PDF automaticamente",
+"description": "Riconosce email, importi, IP, targhe e altro in immagini e PDF e li oscura in un lampo. E fa tutto in offline, senza passare le immagini su server esterni\n- su macitynet.it BlurData per Mac nasconde i dati sensibili in immagini e PDF automaticamente",
+"url": "https://www.macitynet.it/blurdata-mac-app/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2025/08/BlurData-app-mac-8.jpg",
+"publishedAt": "2025-08-08T06:44:32Z",
+"content": "C’è un modo istantaneo per proteggere i dati sensibili sparsi qua e là all’interno dei documenti che state per condividere tramite Mac: si chiama BlurData ed è un’app tutta italiana progettata apposi… [+3207 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Internazionale.it"
+},
+"author": "Internazionale",
+"title": "Una guida per fare a meno della tecnologia statunitense",
+"description": "Dalle email ai social media, passando dalle piattaforme di streaming: essere puristi è impossibile, ma ci sono molte alternative. Leggi",
+"url": "https://www.internazionale.it/notizie/paris-marx/2025/08/08/tecnologie-app-programmi-non-americani",
+"urlToImage": "https://media.internazionale.it/images/2025/08/07/301883-sd.jpg",
+"publishedAt": "2025-08-08T06:28:22Z",
+"content": "Gli Stati Uniti sono diventati lo stato più prepotente del mondo. Mentre Washington minaccia di imporre dazi ai paesi che non si piegano al suo volere, le aziende del settore tecnologico approfittano… [+23880 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "Prezzi bassissimi per i Galaxy Watch 7: si parte da 159. Offerte vere anche su Watch 6 Classic e Apple Watch",
+"description": "Mai visti prezzi così bassi per i Galaxy Watch 7: oggi su Amazon si trovano modelli da 40 mm a partire da 159, con sconti reali e disponibili in più colori. Giù anche i Galaxy Watch 6 LTE e tanti Apple Watch, inclusi Series 9, 10 e SE. Le scorte sono limitat…",
+"url": "https://www.hwupgrade.it/news/wearables/prezzi-bassissimi-per-i-galaxy-watch-7-si-parte-da-159-offerte-vere-anche-su-watch-6-classic-e-apple-watch_142058.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/ama_sam_gal_watch_720.jpg",
+"publishedAt": "2025-08-08T08:45:24Z",
+"content": "Se aspettavate il momento giusto per cambiare smartwatch, oggi potrebbe essere il giorno perfetto. Amazon propone sconti reali su diversi modelli della gamma Samsung Galaxy Watch 7, ma anche sui Gala… [+1521 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "iPhone 16 Pro a 999 ed è boom di vendite: occhio anche al 256GB, scorte limitate",
+"description": "Il top di gamma Apple è finalmente accessibile: iPhone 16 Pro da 128 GB cala a 999, mentre la versione da 256 GB si trova a 1.149. Prezzi inferiori a quelli ufficiali, ampia disponibilità e nessun vincolo Prime. È il momento ideale per fare l'acquisto",
+"url": "https://www.hwupgrade.it/news/apple/iphone-16-pro-a-999-ed-e-boom-di-vendite-occhio-anche-al-256gb-scorte-limitate_142062.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/ama_iphone_generica_720.jpg",
+"publishedAt": "2025-08-08T08:54:51Z",
+"content": "Le offerte Amazon post Prime Day continuano a sorprendere: iPhone 16 Pro, l'ultimo top di gamma Apple, scende per la prima volta sotto la soglia dei 1000 nella sua versione da 128 GB, con un prezzo … [+1202 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "Super taglio di prezzo per la TV Mini-LED 4K da 55: Hisense porta Dolby Vision, Game Mode e Alexa sotto i 400",
+"description": "Hisense 55U62NQ scende a 399 su Amazon: Mini-LED con local dimming, Dolby Vision IQ, HDR10+ Adaptive, Game Mode Plus e Alexa integrata. Una TV completa, anche per il gaming, con pannello QLED 4K da 55\" e sistema VIDAA U7",
+"url": "https://www.hwupgrade.it/news/audio-video/super-taglio-di-prezzo-per-la-tv-mini-led-4k-da-55-hisense-porta-dolby-vision-game-mode-e-alexa-sotto-i-400_142067.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/hisense-tv-qled-miniled-uled-u8kq_720.jpg",
+"publishedAt": "2025-08-08T09:42:19Z",
+"content": "Hisense 55U62NQ è disponibile su Amazon a 399, un prezzo che la rende una delle Smart TV Mini-LED 4K più interessanti nella fascia sotto i 400 euro. Il pannello da 55 pollici con risoluzione 3840x21… [+1018 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "Xiaomi Fire TV in offerta: 4K, Dolby Vision, controllo vocale e prezzi mai visti su tutta la gamma, anche QLED",
+"description": "Le Xiaomi Fire TV sono in sconto su Amazon in tutti i formati, dai 43\" ai 65\", con prezzi competitivi e funzionalità da top di gamma: 4K HDR, supporto Dolby Vision, Fire OS integrato e compatibilità con AirPlay. E cè anche il modello QLED",
+"url": "https://www.hwupgrade.it/news/audio-video/xiaomi-fire-tv-in-offerta-4k-dolby-vision-controllo-vocale-e-prezzi-mai-visti-su-tutta-la-gamma-anche-qled_142052.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/XiaomiTVFPro_720.jpg",
+"publishedAt": "2025-08-08T07:57:04Z",
+"content": "Chi sta cercando una smart TV 4K con Fire OS integrato, supporto a Dolby Vision e HDR10 e tutte le funzionalità moderne, oggi trova una delle occasioni migliori su Amazon. Le Xiaomi TV con Fire TV in… [+1170 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "Apple rilascia la seconda beta pubblica di iOS 26, iPadOS 26, tvOS 26, watchOS 26 e macOS 26",
+"description": "Apple ha distribuito la seconda beta pubblica dei suoi sistemi operativi che verranno lanciati in autunno, seguendo il rilascio della quinta versione per sviluppatori. Il focus è ovviamente sulla stabilità e affidabilità del codice, ma c'è qualche novità",
+"url": "https://www.hwupgrade.it/news/apple/apple-rilascia-la-seconda-beta-pubblica-di-ios-26-ipados-26-tvos-26-watchos-26-e-macos-26_142063.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/applebetaprogram_720.jpg",
+"publishedAt": "2025-08-08T09:31:01Z",
+"content": "Apple ha distribuito la seconda beta pubblica di iOS 26 e iPadOS 26, proseguendo nel ciclo di test che porterà al rilascio finale previsto per settembre. La distribuzione segue il consueto schema del… [+3440 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sapo.pt"
+},
+"author": "Pedro Simões",
+"title": "Mudanças na Europa! Xiaomi passa Apple e quer bater Samsung nos smartphones",
+"description": "O trono do mercado dos smartphones há algum tempo que tem um novo pretendente. Depois de anos de luta entre a Apple e a Samsung, a Xiaomi tem procurado ganhar uma posição de destaque....",
+"url": "https://pplware.sapo.pt/smartphones-tablets/mudancas-na-europa-xiaomi-passa-apple-e-quer-bater-samsung-nos-smartphones/",
+"urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/08/samsung_xiaomi_apple_1.jpg",
+"publishedAt": "2025-08-08T07:00:32Z",
+"content": "O trono do mercado dos smartphones há algum tempo que tem um novo pretendente. Depois de anos de luta entre a Apple e a Samsung, a Xiaomi tem procurado ganhar uma posição de destaque. Um novo gráfico… [+2224 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smhn.info"
+},
+"author": "會原",
+"title": "Apple Intelligenceに黄信号。AppleからAI人材が大量離職、重要人物も競合から引き抜かれる",
+"description": "アップルの人工知能（AI）部門で、トップ人材の流出が深刻化しているようです。Financial Times の報道をもとに、PhoneArenaが伝えています。それによると、ここ数週間だけで十数名もの研究者が退職し、競合他社が積極的に引き抜きを行っているそうです。この流出劇は、A...smhn.infoにアクセスすると、全文を読むことができます。",
+"url": "https://smhn.info/202508-apple-ai",
+"urlToImage": "https://smhn.info/wp-content/uploads/2025/08/fefbce8d733a836ec8a41f381e629ef4.png",
+"publishedAt": "2025-08-08T07:33:44Z",
+"content": "AIFinancial Times PhoneArena\r\nAppleAIRuoming PangMetaSuperintelligence Labs\r\nPangGenmojiApple Intelligence100\r\nAppleAFMMark LeeTom GunterMeta\r\nAppleBrandon McKinzieDian Ang YapOpenAI\r\nAppleAI7CEO2025… [+16 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Unwire.hk"
+},
+"author": "藍骨",
+"title": "經典 Macintosh HD 硬碟圖示成歷史　macOS Tahoe 26 更新圖示設計　更符合現代 SSD 外觀",
+"description": "Apple 在 macOS Tahoe 26 beta 5 版本中，終於淘汰了使用長達 25 年的經典 Macintosh HD 硬碟圖示，改為採用更符合現代 SSD 時代的全新設計。這個標誌性的硬碟圖示自 2000 年 Mac OS X 公開測試版推出以來，一直伴隨 Mac 用戶至今。",
+"url": "https://unwire.hk/2025/08/08/macos-tahoe-macintosh-hd-icon/software/",
+"urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2025/08/disks.jpg",
+"publishedAt": "2025-08-08T08:02:40Z",
+"content": "Apple macOS Tahoe 26 beta 5 25 Macintosh HD SSD 2000 Mac OS X Mac \r\n Macintosh HD Apple \r\nApple Mac SSD 2008 MacBook Air 2010 Retina Mac SSD Apple Silicon Apple \r\nmacOS Tahoe 26 beta 5 Macintosh HD A… [+22 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Unwire.hk"
+},
+"author": "arthur",
+"title": "Smartphone 功能逐漸消失 調查指 3.5mm 插頭與可拆電池最令人懷念",
+"description": "一項最新調查顯示，隨著智能手機技術不斷進步，許多曾經普及的功能如 3.5 mm 耳機插頭、可拆卸電池及 microSD 卡槽逐漸從新款手機中消失，引發用戶強烈懷念。Android Authority 近日訪問 5000 名網友，結果顯示 3.5 mm 耳機插頭以 27%",
+"url": "https://unwire.hk/2025/08/08/android-smartphone-features-survey/fun-tech/",
+"urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2025/08/fb_photo20250808t004.png",
+"publishedAt": "2025-08-08T04:00:00Z",
+"content": "3.5 mm microSD Android Authority 5000 3.5 mm 27% microSD \r\nAndroid Authority 3.5 mm microSD 3.5 mm 27% Sony Xperia Asus Zenfone 26% \r\nmicroSD 20% microSD microSD USB \r\n: androidauthority\r\n:<li>Apple … [+103 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphones.ru"
+},
+"author": "Павел",
+"title": "Установил Cyberpunk 2077 на MacBook и сравнил с графикой на PS5. До сих пор удивлён результатом",
+"description": "После полугода обещаний Cyberpunk 2077 всё-таки вышла на Mac. В отличие от Assassin’s Creed Shadows (обзор) игра может запуститься даже на первых М-процессорах Apple, которые не поддерживают трассировку лучей. Сталкивать лбами буду версии из базовой PlayStati…",
+"url": "https://www.iphones.ru/iNotes/sravnil-cyberpunk-2077-na-macbook-s-processorom-m1-pro-protiv-ps5-ya-v-shoke",
+"urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2025%2F08%2FHero-6.jpg",
+"publishedAt": "2025-08-08T08:30:56Z",
+"content": "Cyberpunk 2077 - Mac.\r\n Assassins Creed Shadows () - Apple, .\r\nPlayStation 5, , MacBook Pro 16 M1 Pro, 3 .\r\n MacBook Air MacBook Pro M4.\r\nGPU M1 Pro 10% , GPU M4 M5, Mac 2026 .\r\n , «» M1 Pro, .\r\n.\r\n<… [+1116 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphones.ru"
+},
+"author": "Илья Сидоров",
+"title": "Apple рассказала, когда ждать GPT-5 в Apple Intelligence",
+"description": "Вчера OpenAI представила языковую модель GPT-5 для ChatGPT, которая стала лучше по всем параметрам. В Apple Intelligence тоже есть ChatGPT, но для его работы используется старая модель GPT-4o. Apple сообщила, что GPT-5 появится в Apple Intelligence в iOS 26, …",
+"url": "https://www.iphones.ru/iNotes/apple-rasskazala-kogda-zhdat-gpt-5-v-apple-intelligence",
+"urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2025%2F08%2FElevate-Your-Apple-Experience-Integrate-ChatGPT-with-Siri-for-Enhanced-Productivity-scaled.jpg",
+"publishedAt": "2025-08-08T06:29:58Z",
+"content": "OpenAI GPT-5 ChatGPT, .\r\n Apple Intelligence ChatGPT, GPT-4o.\r\nApple , GPT-5 Apple Intelligence iOS 26, iPadOS 26 macOS Tahoe 26. .\r\n iOS 18, iPadOS 18 macOS Sequoia, , Apple Intelligence ChatGPT GPT… [+11 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphones.ru"
+},
+"author": "Илья Сидоров",
+"title": "Компания Fintiv подала в суд на Apple, обвинив её в краже технологии Apple Pay",
+"description": "Apple столкнулась с новым иском в США. На этот раз на неё подала в суд компания Fintiv, обвинив в краже запатентованных технологий для работы Apple Pay. С 2011 по 2012 год Apple консультировалась с компанией CorFire по поводу запуска Apple Pay. CorFire предос…",
+"url": "https://www.iphones.ru/iNotes/kompaniya-fintiv-podala-v-sud-na-apple-obviniv-eyo-v-krazhe-tehnologii-apple-pay",
+"urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2025%2F08%2FAPple_Pay_cool.jpg",
+"publishedAt": "2025-08-08T06:19:34Z",
+"content": "Apple . Fintiv, Apple Pay.\r\n 2011 2012 Apple CorFire Apple Pay. CorFire Apple (NDA).\r\nFintiv CorFire 2014 , , Apple CorFire Apple Pay. Apple CorFire Apple Pay 2014 .\r\n , Apple Pay, NFC, , CorFire.\r\nA… [+60 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphones.ru"
+},
+"author": "Илья Сидоров",
+"title": "Все сторонние браузеры для iOS перейдут на собственные движки до конца 2025 года. Больше никакого WebKit от Apple",
+"description": "Япония обязала Apple разрешить разработчикам браузеров на iPhone использовать собственные движки. Соответствующий закон начнет действовать с декабря 2025 года. Сейчас все браузеры на iOS используют движок WebKit, который принадлежит самой Apple. Поэтому, несм…",
+"url": "https://www.iphones.ru/iNotes/vse-storonnie-brauzery-dlya-ios-pereydut-na-sobstvennye-dvizhki-do-konca-2025-goda-bolshe-nikakogo-webkit-ot-apple",
+"urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2025%2F08%2FwBYaHwXw7gkAZVf3N5MGyT.jpg",
+"publishedAt": "2025-08-08T10:03:34Z",
+"content": "Apple iPhone . 2025 .\r\n iOS WebKit, Apple. , , .\r\n (DMA) Apple . Apple , , Google Mozilla WebKit iOS.\r\n Apple , .\r\n , . . [The Verge]"
+},
+{
+"source": {
+"id": null,
+"name": "MacGeneration"
+},
+"author": "Stéphane Moussie",
+"title": "Bon plan : le puissant chargeur Apple 140 W à 69 € (- 34 %)",
+"description": "L’adaptateur secteur USB-C 140 W d’Apple est à actuellement à son prix le plus bas sur Amazon. Le produit est en promotion à 69 € au lieu de 105 €. Ce puissant modèle permet de recharger efficacement un MacBook Pro 16\", même quand celui-ci tourne à plein régi…",
+"url": "https://www.macg.co/materiel/2025/08/bon-plan-le-puissant-chargeur-apple-140-w-69-eu-34-303089",
+"urlToImage": "https://cdn.mgig.fr/2025/08/mga-e3dc057b-w375-w1500-w750_accroche.jpg",
+"publishedAt": "2025-08-08T07:54:00Z",
+"content": "Ladaptateur secteur USB-C 140 W dApple est à actuellement à son prix le plus bas sur Amazon. Le produit est en promotion à 69  au lieu de 105 . Ce puissant modèle permet de recharger efficacement un … [+819 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Giga"
+},
+"author": "Sven Kaulfuss",
+"title": "Nervige Apple-Einstellung: So bringt ihr euer iPhone endlich zum Schweigen",
+"description": "Warum erinnert euch euer iPhone ständig an dieselbe Nachricht?",
+"url": "https://www.giga.de/tech/nervige-apple-einstellung-so-bringt-ihr-euer-iphone-endlich-zum-schweigen--01K24FGFNSQGBNTQ090TKD24ET",
+"urlToImage": "https://static.giga.de/06/cd/ba/fd141ed3554582c853f55d1824_cmUgMTkyMCAxMDgwAzBkZjRkNTg4ZmQy.png",
+"publishedAt": "2025-08-08T09:17:07Z",
+"content": "Warum erinnert euch euer iPhone ständig an dieselbe Nachricht?\r\nWer regelmäßig SMS oder iMessages erhält, kennt das Problem: Das iPhone meldet sich nicht nur einmal sondern gleich doppelt. Alle zwei … [+2208 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Expansion.com"
+},
+"author": "Amaia Ormaetxea, Raquel Moreno",
+"title": "La Primera de Expansión sobre Sabadell, BBVA, Neinor, Aedas, Metrovacesa, Petrobras y KKR",
+"description": "El mercado ve más lejos una mejora de la opa de BBVA sobre Sabadell. BBVA debería subir el precio de la oferta en al menos 1.200 millones de euros para neutralizar la prima negativa, que ahora se sitúa en el 7,3%. Leer",
+"url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2025/08/08/689581c5e5fdeabe368b4574.html",
+"urlToImage": "https://phantom-expansion.uecdn.es/2cbab0acfa20014059a8de470e66c9e5/f/webp/assets/multimedia/imagenes/2025/08/08/17546283831205.jpg",
+"publishedAt": "2025-08-08T05:25:52Z",
+"content": "El mercado ve más lejos una mejora de la opa de BBVA sobre Sabadell. BBVA debería subir el precio de la oferta en al menos 1.200 millones de euros para neutralizar la prima negativa, que ahora se sit… [+710 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Help Net Security"
+},
+"author": "Help Net Security",
+"title": "August 2025 Patch Tuesday forecast: Try, try, again",
+"description": "July turned into a surprisingly busy month. It started slowly with a fairly ‘calm’ Patch Tuesday as I forecasted in my last blog. Although there were 130 new CVEs addressed across all the Microsoft releases, there was only one publicly disclosed CVE, so the r…",
+"url": "https://www.helpnetsecurity.com/2025/08/08/august-2025-patch-tuesday-forecast/",
+"urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/07/07160340/patch_tuesday-2024-2.webp",
+"publishedAt": "2025-08-08T06:20:40Z",
+"content": "July turned into a surprisingly busy month. It started slowly with a fairly calm Patch Tuesday as I forecasted in my last blog. Although there were 130 new CVEs addressed across all the Microsoft rel… [+4412 chars]"
+},
+{
+  "source": {
+"id": null,
+"name": "GameStar"
+},
+"author": "Jonas Herrmann",
+"title": "iPhone - Apple verabschiedet sich vom Marktführer, lässt ein Bauteil jetzt lieber beim größten Konkurrenten bauen",
+"description": "Apple hat bekannt gegeben, dass in Zukunft Samsung statt Sony die Bildsensoren des iPhones bauen wird.",
+"url": "https://www.gamestar.de/artikel/apple-laesst-kamerasensoren-kuenftig-von-samsung-bauen,3437530.html",
+"urlToImage": "https://images.cgames.de/images/gamestar/293/iphone-17-pro-kamera-teaser-sadjad-adobe-stock_6346787.jpg",
+"publishedAt": "2025-08-08T09:06:00Z",
+"content": "Apple setzt in Zukunft wieder auf Samsung. (Bild: Sadjad, Adobe Stock)\r\nApple hat überraschend eine neue Partnerschaft mit Samsung angekündigt. Der südkoreanische Konkurrent wird in Zukunft fortschri… [+2177 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GameStar"
+},
+"author": "Michael Graf",
+"title": "Plus - Sorgenkinder 2025: Gewinner und Verlierer des ersten Halbjahrs",
+"description": "Hurra, wir hatten unrecht! Zumindest eines unserer Sorgenkinder hat sich besser geschlagen als erwartet. Andere waren weniger erfolgreich, eines sogar eine Katastrophe.\n\nDiesmal geht es um:\n\n- Titan Quest 2\n- South of Midnight\n- inZOI\n- Vampire: The Masquerad…",
+"url": "https://www.gamestar.de/videos/sorgenkinder-2025-gewinner-und-verlierer-des-ersten-halbjahrs,137119.html",
+"urlToImage": "https://images.cgames.de/images/gamestar/293/videoimage_6367812.jpg",
+"publishedAt": "2025-08-08T09:30:00Z",
+"content": "Hurra, wir hatten unrecht! Zumindest eines unserer Sorgenkinder hat sich besser geschlagen als erwartet. Andere waren weniger erfolgreich, eines sogar eine Katastrophe.\r\nDiesmal geht es um:\r\n- Titan … [+934 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Eldiario.es"
+},
+"author": "Antonio Martínez Ron",
+"title": " PODCAST | Morgan o la historia de una de las criaturas más inteligentes de la Tierra",
+"description": "Un episodio que nos ayudará a comprender la enorme inteligencia y la fascinante cultura de las orcas\n\r\nRegresa el mítico podcast ‘Catástrofe Ultravioleta’ con una nueva temporada en elDiario.es\r\n\n \n \r\n\n \n En este capítulo hablaremos de la increíble capacidad …",
+"url": "https://www.eldiario.es/sociedad/podcast-morgan-historia-criaturas-inteligentes-tierra_1_12496643.html",
+"urlToImage": "https://static.eldiario.es/clip/c29012cb-b1b0-4c68-9431-9fc8b06f75c2_facebook-watermarked-aspect-ratio_default_0.jpg",
+"publishedAt": "2025-08-08T04:00:55Z",
+"content": "En este capítulo hablaremos de la increíble capacidad de las orcas (mal llamadas “ballenas asesinas”) para comunicarse, socializar e incluso aliarse con los humanos para cazar. Conoceremos a Tom el h… [+2684 chars]"
+}
   ]
 }

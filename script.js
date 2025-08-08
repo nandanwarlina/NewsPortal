@@ -11,20 +11,52 @@ const categoryButtons = document.querySelectorAll(".category-btn");
 
 let currentPage = 1;
 let currentQuery = "";
+let allArticles = []; // to store all articles
+
 
 async function fetchNews() {
   try {
     const response = await fetch("news.json");
     if (!response.ok) {
-      throw new Error("HTTP error! Status: ${response.status");
+      throw new Error(`HTTP error! Status: ${response.status}`);
     }
     const data = await response.json();
-    return data.articles;
+    allArticles = data.articles;
+
+    if (currentQuery !== "") {
+      return allArticles.filter((article) =>
+        article.title.toLowerCase().includes(currentQuery.toLowerCase()) ||
+        (article.description &&
+          article.description.toLowerCase().includes(currentQuery.toLowerCase()))
+      );
+    }
+
+    return allArticles;
   } catch (error) {
     console.error("Error fetching news", error);
     return [];
   }
 }
+
+categoryButtons.forEach((button) => {
+  button.addEventListener("click", async () => {
+    categoryButtons.forEach((btn) => btn.classList.remove("active"));
+    button.classList.add("active");
+
+    searchField.value = ""; // clear input
+    currentQuery = button.dataset.category || "";
+    currentPage = 1;
+    await updateNews();
+  });
+});
+
+searchField.addEventListener("keypress", async (e) => {
+  if (e.key === "Enter") {
+    searchButton.click();
+  }
+});
+
+
 
 function truncateText(text, maxLength) {
   return text.length > maxLength ? text.slice(0, maxLength) + "...." : text;
@@ -64,14 +96,21 @@ async function updateNews() {
   try {
     loadingSpinner.style.display = "block";
     const articles = await fetchNews();
-    displayBlogs(articles);
+
+    const startIndex = (currentPage - 1) * 9;
+    const endIndex = startIndex + 9;
+    const paginatedArticles = articles.slice(startIndex, endIndex);
+
+    displayBlogs(paginatedArticles);
+
+    updatePaginationButtons(articles.length);
   } catch (error) {
     console.error("Error updating news", error);
   } finally {
     loadingSpinner.style.display = "none";
-    updatePaginationButtons();
   }
 }
+
 
 searchButton.addEventListener("click", async () => {
   currentQuery = searchField.value.trim();
@@ -111,9 +150,11 @@ categoryButtons.forEach((button) => {
   });
 });
 
-function updatePaginationButtons() {
+function updatePaginationButtons(totalArticles) {
   prevButton.disabled = currentPage <= 1;
+  nextButton.disabled = currentPage * 9 >= totalArticles;
 }
+
 
 (async () => {
   await updateNews();
