@@ -6,6 +6,7 @@
 "name": "The Verge"
 },
 "author": "Jess Weatherbed",
+"category":"Technology",
 "title": "Apple’s lock on iPhone browser engines gets a December deadline",
 "description": "We might finally see the first iPhone browsers built on top of third-party engines now that Japanese regulators have taken up the issue.  Apple’s malicious compliance in the EU has so far prevented Chrome, and its Blink engine, for example, from coming to iOS…",
 "url": "https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers",
@@ -19,6 +20,7 @@
 "name": "NPR"
 },
 "author": "Regina G. Barber",
+"category":"Health",
 "title": "Why do some people's memories stay sharp as they age?",
 "description": "The human brain tends to slow down as we age — even healthy brains shrink. That can make learning and memory harder as people age. But some people’s brains shrink more slowly than their peers. This lucky group is called “SuperAgers.” They’re people aged 80 or…",
 "url": "https://www.npr.org/2025/08/08/nx-s1-5494697/aging-memory-alzheimers-dementia",
@@ -32,6 +34,7 @@
 "name": "NPR"
 },
 "author": "Malaka Gharib",
+"category":"Health",
 "title": "13 podcast episodes to make back-to-school season easier on kids and parents",
 "description": "The new school year can be exciting, but also stressful. Kids may be feeling anxious. Parents may be juggling new responsibilities. Experts share tips on how to manage this season of change.",
 "url": "https://www.npr.org/2025/08/08/nx-s1-5494561/podcast-episodes-back-to-school-less-stressful-kids-parents",
@@ -45,6 +48,7 @@
 "name": "Business Insider"
 },
 "author": "Charissa Cheong,Shubhangi Goel",
+"category":"Business",
 "title": "The Big Tech Visa: 7 current and former Big Tech employees share their H-1B visa stories",
 "description": "Some techies who came to the US and found work on a H-1B visa say it's allowed them to pursue dream careers. For others, doubt has settled in.",
 "url": "https://www.businessinsider.com/h-1b-visa-big-tech-immigration-green-card-2025-8",
@@ -58,6 +62,7 @@
 "name": "Hipertextual"
 },
 "author": "Hipertextual (Redacción)",
+"category":"Technology",
 "title": "Este es el mejor momento para comprar “AirTag” baratas: cuatro por veinte euros y compatible con Buscar del iPhone",
 "description": "Cuando Apple lanzó el AirTag, muchas personas lo vieron como la solución perfecta para no volver a perder nada. Usando la aplicación “Buscar” de cualquier dispositivo de Apple, puedes encontrar la posición exacta en el mapa. Es perfecto tanto para llaves como…",
 "url": "http://hipertextual.com/ofertas-descuentos/airtag-barata-oferta/",
@@ -71,6 +76,7 @@
 "name": "Hipertextual"
 },
 "author": "Rubén Chicharro",
+"category":"Technology",
 "title": "El rediseño de HyperOS 3.0 se filtra al completo: traerá varias funciones copiadas del iPhone",
 "description": "Cada vez son más los detalles que conocemos de HyperOS 3.0, la que será la nueva versión del sistema operativo de Xiaomi. La compañía planea lanzar esta actualización este mismo mes de agosto, y aunque todavía no han confirmado ninguna novedad al respecto, un…",
 "url": "http://hipertextual.com/mobile/hyperos-3-0-se-filtra-al-completo-nuevo-diseno-isla-dinamica-y-mas/",
@@ -84,6 +90,7 @@
 "name": "Autoblog"
 },
 "author": "Amos Kwon",
+"category":"Business",
 "title": "Hyundai Reveals Unmissable Lease Deal on 2025 Kona SUV",
 "description": "The second coming of the Kona was a dramatic one. Its modern interior and exterior take the Kona into not just bigger, but better subcompact crossover...",
 "url": "https://www.autoblog.com/carbuying/hyundai-announces-killer-lease-deal-on-the-2025-kona",
@@ -97,6 +104,7 @@
 "name": "Xataka.com"
 },
 "author": "Antonio Sabán",
+"category":"Business",
 "title": "EEUU amenazó a Apple para que fabricase el iPhone en casa. Apple ya está pasando por el aro",
 "description": "A Estados Unidos le está saliendo bien el pulso arancelario.  Aunque el dólar sigue sufriendo, los resultados directos de sus exigencias a otros países siguen teniendo retornos positivos. Trump ha logrado que sus socios comerciales paguen más aranceles que an…",
 "url": "https://www.xataka.com/moviles/eeuu-amenazo-a-apple-fabricase-iphone-casa-apple-esta-pasando-aro",
@@ -110,6 +118,7 @@
 "name": "Xataka.com"
 },
 "author": "Alberto García",
+"category":"Technology",
 "title": "El móvil plegable de Samsung a precio de saldo, ofertón en la consola portátil de Logitech y más, Cazando Gangas",
 "description": "Volvemos con un nuevo Cazando Gangas en una semana en la que hemos visto ofertas en un gran surtido de dispositivos. Amazon, PcComponentes y MediaMarkt coronan algunos de los mejores chollos en móviles, consolas portátiles, barras de sonido y mucho más. En es…",
 "url": "https://www.xataka.com/seleccion/movil-plegable-samsung-a-precio-saldo-oferton-consola-portatil-logitech-cazando-gangas",
@@ -149,6 +158,7 @@
 "name": "heise online"
 },
 "author": "Tomislav Bezmalinović",
+"category":"Technology",
 "title": "Interface für die Welt: Forscher zeigen innovatives AR-Interaktionsmodell",
 "description": "Forscher haben mit \"Reality Proxy\" ein AR-Bedienkonzept entwickelt, das die Ferninteraktion mit realen Objekten erleichtert.",
 "url": "https://www.heise.de/news/Interface-fuer-die-Welt-Forscher-zeigen-innovatives-AR-Interaktionsmodell-10514396.html",
@@ -162,6 +172,7 @@
 "name": "9to5Mac"
 },
 "author": "Zac Hall",
+"category":"Technology",
 "title": "Here’s when ChatGPT integration within Apple Intelligence will use GPT-5",
 "description": "Earlier today, OpenAI announced GPT-5, its latest model to power ChatGPT. The new frontier model is a significant leap forward in a lot of areas. But when will ChatGPT integration within Apple Intelligence adopt it? That’s actually happening rather soon…\n\n\n\n …",
 "url": "https://9to5mac.com/2025/08/07/apple-intelligence-gpt-5-chatgpt-integration/",
@@ -539,6 +550,7 @@
 "name": "Andro4all.com"
 },
 "author": "JuanMi Guirado",
+"category":"Technology",
 "title": "Caída brutal (de 199 a 99 euros) para este reloj Pro con 12 días de batería, GPS y Alexa integrada",
 "description": "Casi 4 años desde la presentación del Amazfit GTR 3 Pro, el fabricante no ha lanzado ninguna nueva versión de este reloj inteligente con apellido Pro, por algo será. Lo que funciona no hay que tocarlo ni renovarlo, y este smartwatch es una prueba de que el tr…",
 "url": "https://andro4all.com/ofertas/caida-brutal-de-199-a-99-euros-para-este-reloj-pro-con-12-dias-de-bateria-gps-y-alexa-integrada",
@@ -552,6 +564,7 @@
 "name": "Idownloadblog.com"
 },
 "author": "Anthony Bouchard",
+"category":"Technology",
 "title": "Save big on games and accessories for your Nintendo Switch 2",
 "description": "The iDownloadBlog team has found amazing deals on games and accessories for your Nintendo Switch 2 game console.",
 "url": "https://www.idownloadblog.com/2025/08/07/nintendo-switch-2-deals-part-10/",
@@ -565,6 +578,7 @@
 "name": "Nextpit.de"
 },
 "author": "Jade Bryan",
+"category":"Technology",
 "title": "Apple Watch Ultra 3: Erstes Update seit 2 Jahren",
 "description": "Erste Details auf die Apple Watch Ultra 3 sind durchgesickert. Und es gibt Hinweise darauf, dass vieles deutlich verbessert wurde.",
 "url": "https://www.nextpit.de/news/apple-watch-ultra-3-erstes-update-seit-2-jahren",
@@ -578,6 +592,7 @@
 "name": "Techbang.com"
 },
 "author": "WL.",
+"category":"Technology",
 "title": "Apple 地圖台灣開放自行車導航，同時支援 Apple Watch 與語音回饋",
 "description": "Apple 地圖台灣開放自行車導航！單車族迎來導航新福音，支援 Apple Watch 與語音回饋Apple 正式為台灣使用者推出 Apple 地圖的「自行車導航」功能，對於熱愛單車生活的用戶而言無疑是一大福音。從即日起，iPhone 和 Apple Watch 使用者皆可透過 Apple 地圖查詢專為單車設計的導航路線，包括專用自行車道、單車友善道路，並支援繁體中文與英文介面。\n在 iOS 17 推出後，Apple 地圖就變得更佳實用，具備更精確的導航、顯眼的地標圖示、語音指引更自然，導航功能也不遜於 Goog…",
 "url": "https://www.techbang.com/posts/124776-apple-maps-taiwan-cycling-navigation",
@@ -591,6 +606,7 @@
 "name": "9to5google.com"
 },
 "author": "Abner Li",
+"category":"Technology",
 "title": "Pixel Watch 4 ‘with Gemini’ has dual-frequency GPS, Quick Charge Dock",
 "description": "The latest Pixel Watch 4 leak reveals how Google will be advertising the 2025 Wear OS 6 device and Gemini plays a big role.\n\n\n\n more…",
 "url": "http://9to5google.com/2025/08/07/pixel-watch-4-gemini-leak/",
@@ -604,6 +620,7 @@
 "name": "TechRadar"
 },
 "author": "David Nield",
+"category":"Technology",
 "title": "iOS 26 beta gives Apple Maps an AI upgrade – and it might be enough to tempt you from Google Maps",
 "description": "It seems Apple Maps is getting an AI-powered search upgrade with iOS 26, though it hasn't been officially announced.",
 "url": "https://www.techradar.com/phones/iphone/ios-26-beta-gives-apple-maps-an-ai-upgrade-and-it-might-be-enough-to-tempt-you-from-google-maps",
@@ -617,6 +634,7 @@
 "name": "TechRadar"
 },
 "author": "James Rogerson",
+"category":"Technology",
 "title": "'This looks hideous': the iPhone 17 Pro has been shown off in a new orange shade that you’re going to either love or hate",
 "description": "A video of an iPhone 17 Pro in an orange shade is delivering mixed reactions, but some people love it.",
 "url": "https://www.techradar.com/phones/iphone/this-looks-hideous-the-iphone-17-pro-has-been-shown-off-in-a-new-orange-shade-that-youre-going-to-either-love-or-hate",
@@ -630,6 +648,7 @@
 "name": "Forbes"
 },
 "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/appleunboxed/",
+"category":"Technology",
 "title": "Apple iPhone 17 Release Date: Your Complete Countdown",
 "description": "In under five weeks, we’ll know all about the iPhone 17 series. This is your comprehensive schedule to what’s coming when, down to the minute.",
 "url": "https://www.forbes.com/sites/davidphelan/2025/08/08/apple-iphone-17-release-date-your-complete-countdown/",
@@ -643,6 +662,7 @@
 "name": "Forbes"
 },
 "author": "Rich Karlgaard, Senior Contributor, \n Rich Karlgaard, Senior Contributor\n https://www.forbes.com/sites/richkarlgaard-asia/",
+"category":"Business",
 "title": "Decline By Degrees",
 "description": "Policymakers take heed: Smart regulation is the path to steady growth.",
 "url": "https://www.forbes.com/sites/richkarlgaard/2025/08/07/decline-by-degrees/",
@@ -656,6 +676,7 @@
 "name": "Forbes"
 },
 "author": "Russell Flannery, Senior Contributor, \n Russell Flannery, Senior Contributor\n https://www.forbes.com/sites/russellflannery/",
+"category":"Business",
 "title": "TSMC Shares Soar 4.9% To Record After Trump Announces Tariff Exemption",
 "description": "“TSMC, Samsung, SK Hynix and others that have invested in or plan to invest will pay no tariff, according to the president's comments. That's big.”",
 "url": "https://www.forbes.com/sites/forbeschina/2025/08/07/tsmc-shares-soar-49-to-record-after-trump-announces-tariff-exemption/",
@@ -682,6 +703,7 @@
 "name": "Tom's Hardware UK"
 },
 "author": "Jon Martindale",
+"category":"Business",
 "title": "Trump's 100% chip tariffs will likely hurt smaller manufacturers, as major companies court exemptions",
 "description": "The proposed 100% semiconductor tariff sounds devastating to chipmakers. But many major players remain unaffected, leaving smaller manufacturers vulnerable to the steep proposal.",
 "url": "https://www.tomshardware.com/tech-industry/semiconductors/trumps-100-percent-chip-tariffs-will-likely-hurt-smaller-manufacturers-as-major-companies-court-exemptions",
@@ -708,6 +730,7 @@
 "name": "Hdblog.it"
 },
 "author": "HDblog.it",
+"category":"Technology",
 "title": "MacBook Pro con schermo OLED: lancio nel 2026 con una caratteristica degli iPhone?",
 "description": "Continuano ad arrivare conferme su alcuni punti chiave.",
 "url": "https://www.hdblog.it/portatili/articoli/n627800/apple-macbook-pro-oled-notch-dynamic-island-quando/",
@@ -721,6 +744,7 @@
 "name": "Hdblog.it"
 },
 "author": "HDblog.it",
+"category":"Technology",
 "title": "Meta mostra i visori del futuro: tra realismo estremo e visione a 180°",
 "description": "Prototipi Meta con realismo record e campi visivi fino a 180°",
 "url": "https://www.hdblog.it/indossabili/articoli/n627833/meta-prototipi-vr/",
@@ -1286,6 +1310,62 @@
 "urlToImage": "https://static.eldiario.es/clip/c29012cb-b1b0-4c68-9431-9fc8b06f75c2_facebook-watermarked-aspect-ratio_default_0.jpg",
 "publishedAt": "2025-08-08T04:00:55Z",
 "content": "En este capítulo hablaremos de la increíble capacidad de las orcas (mal llamadas “ballenas asesinas”) para comunicarse, socializar e incluso aliarse con los humanos para cazar. Conoceremos a Tom el h… [+2684 chars]"
-}
+},
+{
+    "source": {
+      "id": "skysports",
+      "name": "Sky Sports"
+    },
+    "author": null,
+    "category":"Sports",
+    "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+    "description": "The latest transfer news and rumours involving Newcastle United as the summer window heats up.",
+    "url": "https://www.skysports.com/football/live-blog/11678/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "urlToImage": "https://e0.365dm.com/24/08/1600x900/skysports-st-james-park-newcastle_6723332.jpg",
+    "publishedAt": "2025-08-08T09:00:00Z",
+    "content": "Follow all the latest Newcastle transfer updates, signings, and rumours as the club navigates the summer transfer window."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Times of India"
+    },
+    "author": null,
+     "category":"Science",
+    "title": "NASA shares thrilling update on the mysterious interstellar object racing through our solar system",
+    "description": "NASA confirms that interstellar object 3I/ATLAS is the largest of its kind ever detected, revealing new size and composition details.",
+    "url": "https://timesofindia.indiatimes.com/science/nasa-shares-thrilling-update-on-the-mysterious-interstellar-object-racing-through-our-solar-system/articleshow/123254304.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-123254304,imgsize-123456,width-400,resizemode-4/123254304.jpg",
+    "publishedAt": "2025-08-08T10:15:00Z",
+    "content": "NASA scientists have shared updated findings on 3I/ATLAS, including its revised size estimates and unique gas halo, based on Hubble imagery."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Colorado Sun"
+    },
+    "author": null,
+    "category": "Sports",
+    "title": "Colorado sports betting tax revenue sets new record, surging money for water projects",
+    "description": "Despite a state budget crisis, Colorado’s sports-betting tax income set a new high this year, generating much-needed funds for water initiatives.",
+    "url": "https://coloradosun.com/2025/08/15/colorado-sports-betting-tax-revenue-sets-record/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-15T00:00:00Z",
+    "content": "Colorado’s sports-betting tax revenue has hit a record high in 2025, providing a boost for water-related funding despite statewide budget constraints." 
+  },
+  {
+    "source": {
+      "id": "sciencefriday",
+      "name": "Science Friday"
+    },
+    "author": null,
+    "category":"Science",
+    "title": "100th anniversary of quantum mechanics landmark papers",
+    "description": "Science Friday marks the centennial of two landmark quantum mechanics papers that helped spark the field.",
+    "url": "https://www.sciencefriday.com/episodes/august-15-2025/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-15T00:00:00Z",
+    "content": "This year marks 100 years since the publication of two foundational papers that laid the groundwork for quantum mechanics." 
+  }
   ]
 }
