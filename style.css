@@ -74,6 +74,17 @@ nav {
   font-size: 16px;
 }
 
+#sort-select {
+  appearance: none; /* Remove default arrow */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: white url('down-arrow.png') no-repeat right 10px center;
+  background-size: 22px;
+  padding-right: 30px; /* space for arrow */
+}
+
+
+
 #search-button {
   padding: 10px 20px;
   background-color: #138065;
